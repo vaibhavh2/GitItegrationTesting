@@ -1,0 +1,29 @@
+{
+  "createdDate": "2026-09-22T09:27:57.65Z",
+  "modifiedDate": "2026-09-22T09:27:57.65Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59a2",
+  "intentId": "aX3DA4HV2ARA6m8Mu",
+  "intentName": "Simple Observable to Enrichment v1.0.3",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Enriches observables using VirusTotal API for IP addresses, URLs, domains, and file hashes, returning structured threat intelligence with verdict, timestamp, and analysis statistics.\n",
+  "referencedComponents": [
+    "aT0MBgT0PDhSCQjJu"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "virustotal-enrich-observable-vic--copy-2--2eb6d",
+  "version": 117,
+  "id": "aTeFTuRYnwISb33RP",
+  "name": "Enrich - VirusTotal Enrich Observable (VIC)",
+  "disabled": false
+}

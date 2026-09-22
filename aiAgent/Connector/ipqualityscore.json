@@ -1,0 +1,8 @@
+{
+  "manifestVersion": "1.4.0",
+  "uid": "ipqualityscore",
+  "version": 1,
+  "id": "ipqualityscore",
+  "name": "IPQualityScore",
+  "disabled": false
+}

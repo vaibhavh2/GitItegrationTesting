@@ -1,0 +1,26 @@
+{
+  "createdDate": "2026-09-22T09:28:03.723Z",
+  "modifiedDate": "2026-09-22T09:28:03.723Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59bc",
+  "intentId": "aX3DA4HV2ARA6m8Mu",
+  "intentName": "Simple Observable to Enrichment v1.0.3",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Enriches observables via Recorded Future by type (IP, Hash, Domain, URL) and returns normalized TEDS enrichment with verdict, score, and context",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "recorded-future-enrich-observables-vic--copy-1--3ff62",
+  "version": 232,
+  "id": "aTyC7VwKUn5yHsD_f",
+  "name": "Enrich - Recorded Future Enrich Observable (VIC)",
+  "disabled": false
+}

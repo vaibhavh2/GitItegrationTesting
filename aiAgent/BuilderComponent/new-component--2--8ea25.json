@@ -1,0 +1,28 @@
+{
+  "createdDate": "2026-09-22T09:27:59.258Z",
+  "modifiedDate": "2026-09-22T09:27:59.258Z",
+  "playbookId": "6ab24a19b7e20f05fefe5989",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Evaluates CASE records against rules, processes matches by updating related records, and triggers rule execution events.\n",
+  "referencedComponents": [
+    "aZ1LRHkhdRw0Pruxj"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--2--8ea25",
+  "version": 18,
+  "id": "aZLI4uETKIjW6g4Vz",
+  "name": "AI SOC - Evaluate And Execute Rules Against CASEs",
+  "disabled": false
+}

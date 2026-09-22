@@ -1,0 +1,26 @@
+{
+  "createdDate": "2026-09-22T09:28:01.67Z",
+  "modifiedDate": "2026-09-22T09:28:01.67Z",
+  "playbookId": "6ab24a19b7e20f05fefe5993",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Evaluates CASE records against enabled routing rules, updates matched records with rule details, and triggers rule execution via event emission.\n",
+  "referencedComponents": [
+    "aZ1LRHkhdRw0Pruxj"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "run-rule-against-pending-signals--copy-1--f3bc7",
+  "version": 55,
+  "id": "aZzBN7D0j0KWVIPdU",
+  "name": "AI SOC - Run Rules Engine against Current CASE Record",
+  "disabled": false
+}

@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe5970",
+  "type": "Playbook",
+  "name": "Block",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.903Z",
+  "modifiedDate": "2026-09-22T09:27:56.903Z",
+  "uid": "block-302d9",
+  "version": 2,
+  "id": "aQnjgP2bXF4wKkYP7",
+  "disabled": false
+}

@@ -1,0 +1,29 @@
+{
+  "createdDate": "2026-09-22T09:28:01.478Z",
+  "modifiedDate": "2026-09-22T09:28:01.478Z",
+  "playbookId": "6ab24a1ab7e20f05fefe599b",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Correlates cases associated with the case currently being investigated, requires case tracking-id as input.",
+  "configurationNotes": "Requires asset configuration with appropriate values",
+  "referencedComponents": [
+    "ae5Ul3Z3m6l3Xraun"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": false,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-8b503",
+  "version": 28,
+  "id": "ae12LW1VLy4EPdpgU",
+  "name": "AI SOC - Correlate Current Case Record",
+  "disabled": false
+}

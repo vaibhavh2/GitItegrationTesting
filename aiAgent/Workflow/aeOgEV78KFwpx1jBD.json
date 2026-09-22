@@ -1,0 +1,560 @@
+{
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "stages": [
+    {
+      "id": "697797cfe1a93a7c4481a7f9",
+      "name": "Default Action(s)",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "DefaultActions",
+      "evalType": "And",
+      "conditions": [],
+      "actions": [
+        {
+          "layoutActions": {
+            "6977a3cd017dc375562b3704": "Hide",
+            "6977a3e40e21ed4fe19a3f10": "Hide",
+            "6977a3f16a5ac2d48ed0028e": "Hide",
+            "6977de8b9f920bce5cf53e69": "Hide",
+            "6977de5cb0274fcc01a85be6": "Hide",
+            "6a475b72df6f3e762d1cf8a6": "Hide",
+            "6a475d43f7784c6d8ccb6420": "Hide"
+          },
+          "actionType": "ShowHide",
+          "parentId": "697797cfe1a93a7c4481a7f9",
+          "id": "6977d9d81ac99062ed3f3b1f",
+          "name": "Hide Default Hidden",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "697797d2d150d63fb514fe36",
+      "name": "If Read Only",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "ah9sf",
+          "conditionType": "Equals",
+          "fieldId": "amg5s",
+          "referenceFieldConjunction": 0,
+          "value": [
+            "69779797b5ce2031b2e7e9ac"
+          ],
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "ay1mz": "Read",
+            "ap5rt": "Read",
+            "a6qd9": "Read",
+            "aooms": "Read",
+            "azr64": "Read",
+            "axu0r": "Read",
+            "a0vh1": "Read",
+            "asrlf": "Read",
+            "a1m2k": "Read",
+            "anvjb": "Read",
+            "ae3td": "Read",
+            "a9rxq": "Read",
+            "agl9y": "Read",
+            "ayh75": "Read",
+            "agepy": "Read",
+            "ayuu4": "Read",
+            "afnpq": "Read",
+            "ay1wo": "Read",
+            "asarj": "Read",
+            "a86sq": "Read",
+            "aw6li": "Read",
+            "awsvi": "Read",
+            "a6tit": "Read",
+            "angc3": "Read",
+            "agj4i": "Read",
+            "av3pc": "Read",
+            "ax80c": "Read",
+            "amxc4": "Read",
+            "a2wmz": "Read",
+            "a8i5n": "Read",
+            "a4y6s": "Read",
+            "a3s1c": "Read",
+            "a8y6i": "Read",
+            "aj8xb": "Read",
+            "azhhl": "Read",
+            "a2nqk": "Read",
+            "afbeu": "Read",
+            "a1sl2": "Read",
+            "ay9m1": "Read",
+            "at2ne": "Read",
+            "ak689": "Read",
+            "asipi": "Read",
+            "axpp1": "Read",
+            "a0yof": "Read",
+            "a4704": "Read",
+            "abcvq": "Read",
+            "atg70": "Read",
+            "ai1ib": "Read",
+            "aftmx": "Read",
+            "asbmb": "Read",
+            "a5spe": "Read",
+            "azfvo": "Read",
+            "a4glo": "Read",
+            "ahabt": "Read",
+            "ad747": "Read",
+            "abkgy": "Read",
+            "akdrd": "Read",
+            "a92tc": "Read",
+            "a5pmm": "Read",
+            "a1nlv": "Read",
+            "ats6o": "Read",
+            "a6te0": "Read",
+            "aeqtz": "Read",
+            "atjww": "Read",
+            "axtxa": "Read",
+            "asrco": "Read",
+            "aismv": "Read",
+            "a4rro": "Read",
+            "acjdo": "Read",
+            "a3aql": "Read",
+            "aq5ec": "Read",
+            "ah4e1": "Read",
+            "a3tcr": "Read",
+            "agu1b": "Read",
+            "a1m6r": "Read",
+            "a108j": "Read",
+            "aa94c": "Read",
+            "ao3rs": "Read",
+            "a5mh2": "Read",
+            "a4rvf": "Read",
+            "adb3j": "Read",
+            "a3abv": "Read",
+            "ajjkb": "Read",
+            "au4i9": "Read",
+            "avqg1": "Read",
+            "a72zd": "Read",
+            "attx7": "Read",
+            "aijdz": "Read",
+            "a9vit": "Read",
+            "au4yx": "Read",
+            "aln6a": "Read",
+            "ax6nr": "Read",
+            "a2bkx": "Read",
+            "ae7fb": "Read",
+            "am3xx": "Read",
+            "an7al": "Read",
+            "apikm": "Read",
+            "a9dzu": "Read",
+            "am8rj": "Read",
+            "alwu5": "Read",
+            "axxic": "Read",
+            "axjef": "Read",
+            "aknxk": "Read"
+          },
+          "actionType": "ReadOnly",
+          "parentId": "697797d2d150d63fb514fe36",
+          "id": "697797e715c21ef473111a87",
+          "name": "Set RO Fields",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6977d9ee9aa5518f123f1920",
+      "name": "Reassign Owner",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "a7b90",
+          "conditionType": "Equals",
+          "fieldId": "a72zd",
+          "referenceFieldConjunction": 0,
+          "value": "6977da33967b5e7c0be79740",
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "layoutActions": {
+            "6933616e5d0af74010f29a0d": "Show"
+          },
+          "actionType": "ShowHide",
+          "parentId": "6977d9ee9aa5518f123f1920",
+          "id": "6977da930ec922033ecfc34b",
+          "name": "Show Current Owner",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6977db48839985ed7e397c3d",
+      "name": "No Current Owner",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "apjuj",
+          "conditionType": "Equals",
+          "fieldId": "attx7",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        },
+        {
+          "id": "alh43",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "a6tit",
+          "referenceFieldConjunction": 0,
+          "value": "68ff9ed0cf39adc60fa79ab7",
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "layoutActions": {
+            "6977a3cd017dc375562b3704": "Show"
+          },
+          "actionType": "ShowHide",
+          "parentId": "6977db48839985ed7e397c3d",
+          "id": "6977db58560ba54aa0ed745b",
+          "name": "Show Claim Widget",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6977db7b5bbd107c2df797e2",
+      "name": "Owned",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "af4wd",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "attx7",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [],
+      "repeats": [],
+      "stages": [
+        {
+          "id": "6977ded6f3742b9cfa025d3b",
+          "name": "No Case",
+          "disabled": false,
+          "parentId": "6977db7b5bbd107c2df797e2",
+          "conditionType": "Equals",
+          "evalType": "And",
+          "conditions": [],
+          "actions": [
+            {
+              "layoutActions": {
+                "6977a3f16a5ac2d48ed0028e": "Show"
+              },
+              "actionType": "ShowHide",
+              "parentId": "6977ded6f3742b9cfa025d3b",
+              "id": "6977dee2a0328de992f4cd02",
+              "name": "Show Escalation Button",
+              "disabled": false
+            }
+          ],
+          "repeats": [],
+          "stages": []
+        },
+        {
+          "id": "6a56656fc93509a6ee54d33b",
+          "name": "Case is not Closed",
+          "disabled": false,
+          "parentId": "6977db7b5bbd107c2df797e2",
+          "conditionType": "Equals",
+          "evalType": "And",
+          "conditions": [
+            {
+              "id": "a7kuk",
+              "conditionType": "DoesNotEqual",
+              "fieldId": "a6tit",
+              "referenceFieldConjunction": 0,
+              "value": "68ff9ed0cf39adc60fa79ab7",
+              "isCaseSensitive": true
+            }
+          ],
+          "actions": [
+            {
+              "layoutActions": {
+                "6977a3e40e21ed4fe19a3f10": "Show"
+              },
+              "actionType": "ShowHide",
+              "parentId": "6a56656fc93509a6ee54d33b",
+              "id": "6a56658646dc622fcf93272a",
+              "name": "Show Unclaim Widget",
+              "disabled": false
+            }
+          ],
+          "repeats": [],
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "69eb26b18ef76879afee3e3f",
+      "name": "Make Fields Required",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "Or",
+      "conditions": [
+        {
+          "id": "ajzom",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "asurd",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        },
+        {
+          "id": "a3yzx",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "aenpi",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "asurd": "Required",
+            "aenpi": "Required"
+          },
+          "actionType": "Required",
+          "parentId": "69eb26b18ef76879afee3e3f",
+          "id": "69eb26f9e2a0ba905d7ff2c6",
+          "name": "Set Required",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "69eb5e7080e3ad51b86d71a3",
+      "name": "Make Fields Required",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "Or",
+      "conditions": [
+        {
+          "id": "ae8pj",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "aqhjx",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        },
+        {
+          "id": "angdl",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "a5v1e",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "aqhjx": "Required",
+            "a5v1e": "Required"
+          },
+          "actionType": "Required",
+          "parentId": "69eb5e7080e3ad51b86d71a3",
+          "id": "69eb5e9da9bb51e85cb9d676",
+          "name": "Set Required",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6a0d6fe051d14cd89646e0a5",
+      "name": "Make Fields Required",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "ae5ew",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "agv0t",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "agv0t": "Required"
+          },
+          "actionType": "Required",
+          "parentId": "6a0d6fe051d14cd89646e0a5",
+          "id": "6a0d70099b1f24cc1cf7689a",
+          "name": "Set Required",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6a0d703fdc20c2a3bd7b6078",
+      "name": "Make Fields Required",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "aa65i",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "a18e7",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "a18e7": "Required"
+          },
+          "actionType": "Required",
+          "parentId": "6a0d703fdc20c2a3bd7b6078",
+          "id": "6a0d70484aa521768870fb9e",
+          "name": "Set Required",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6a475bdb82f3c180928867d1",
+      "name": "Create Manual Case",
+      "disabled": true,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "ang3y",
+          "conditionType": "Equals",
+          "fieldId": "agepy",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        },
+        {
+          "id": "aglg5",
+          "conditionType": "Equals",
+          "fieldId": "a6tit",
+          "referenceFieldConjunction": 0,
+          "value": "69121812c254ef82c686f356",
+          "isCaseSensitive": true
+        },
+        {
+          "id": "a5b77",
+          "conditionType": "Equals",
+          "fieldId": "ad1ql",
+          "referenceFieldConjunction": 0,
+          "value": "6a3ad5fcf59bf89dae01c9fb",
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "layoutActions": {
+            "6977a3a972a006a5e24ea5be": "Hide",
+            "6977a3be1369426166b5c955": "Hide",
+            "6977a3cd017dc375562b3704": "Hide",
+            "6977a3e40e21ed4fe19a3f10": "Hide",
+            "6977a412d2f73247801b182b": "Hide",
+            "69a8aaadc8991df0cc83fb23": "Hide",
+            "69bdc51a349bdb8ff2b36336": "Hide",
+            "697794f35802659dc1aebd72": "Hide",
+            "69bc29a4d074e2b35c4ce2a6": "Hide",
+            "6983e324fe599216e22f9ee5": "Hide",
+            "6983e351be61c324c290b1c8": "Hide",
+            "6983e37c44ef81693665d1b9": "Hide",
+            "697794fffb2e098eb0ab2c34": "Hide",
+            "6a44db0ecc23c3411512cce3": "Hide",
+            "697795051be57ea034eea2b8": "Hide",
+            "6977950b48deaeb635d1f2d2": "Hide",
+            "6a475b72df6f3e762d1cf8a6": "Show",
+            "6a475d43f7784c6d8ccb6420": "Show",
+            "6a54f141cc0c6ed5794a332d": "Hide"
+          },
+          "actionType": "ShowHide",
+          "parentId": "6a475bdb82f3c180928867d1",
+          "id": "6a4766a40d8d995385cbdb50",
+          "name": "Hide All App Sections",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6a553171c1f91e980bfd0347",
+      "name": "Status is Error",
+      "disabled": false,
+      "parentId": "a8MMtQBCkYuvsQ3j5",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "avsb9",
+          "conditionType": "Equals",
+          "fieldId": "a6tit",
+          "referenceFieldConjunction": 0,
+          "value": "6a4524bf70fd01d2134c8a79",
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "layoutActions": {
+            "6a5517af5314d010066b05d7": "Expand"
+          },
+          "actionType": "ShowHide",
+          "parentId": "6a553171c1f91e980bfd0347",
+          "id": "6a553180f99fe452ac507a5b",
+          "name": "Open Execution Status Section",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    }
+  ],
+  "createdDate": "2026-09-22T09:27:56.97Z",
+  "modifiedDate": "2026-09-22T10:38:02.6Z",
+  "uid": "aeOgEV78KFwpx1jBD",
+  "version": 9826,
+  "id": "a8MMtQBCkYuvsQ3j5",
+  "disabled": false
+}

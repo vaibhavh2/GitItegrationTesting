@@ -1,0 +1,174 @@
+{
+  "workspaces": [
+    "a6mdfMkLGHuPOMDvp"
+  ],
+  "items": [
+    {
+      "cardType": "Report",
+      "reportId": "aHrmDkqOdAy0jn5Vi",
+      "id": "69c15301c0082cefaaed4fc3",
+      "name": "Auto Closed by Hero AI",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 0,
+      "col": 0,
+      "sizeX": 1,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aNYopkdJ9YO4FP6aH",
+      "id": "69c1562e7b77a61d5beabc22",
+      "name": "Security Manager Sankey",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 0,
+      "col": 1,
+      "sizeX": 5,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aOVela5dF6naKqcG2",
+      "id": "69c156608257a2c7b67a9732",
+      "name": "Case Average Dwell Time by Type (min)",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 4,
+      "col": 0,
+      "sizeX": 1,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aNslTM74rPBZxDH8X",
+      "id": "69c156f7c16147f0acc914c8",
+      "name": "MTTR by Source",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 4,
+      "col": 1,
+      "sizeX": 2,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aD6ZYaVoBMwTIba6u",
+      "id": "69c1c15b83638a5ca3fa8734",
+      "name": "AI Verdicts",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 4,
+      "col": 3,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "ayizq",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aL1Efrj7aiz2gum6F",
+      "id": "69c1c2088032742069ec29aa",
+      "name": "Analyst Cases per Week Heatmap",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 7,
+      "col": 0,
+      "sizeX": 3,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "ayizq",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aGazeItIqlk_xXQGh",
+      "id": "69c315863c099a6686020925",
+      "name": "MTTD by Source",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 7,
+      "col": 3,
+      "sizeX": 3,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aKOLNdkaC0N2IHQzk",
+      "id": "69c1c3ecffa9c081d1ba90f5",
+      "name": "CASE - Cases by Criticality",
+      "row": 11,
+      "col": 0,
+      "sizeX": 3,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true
+    }
+  ],
+  "timelineEnabled": false,
+  "timelineFilters": {},
+  "minTimelineDate": "2026-03-01T07:00:00Z",
+  "maxTimelineDate": "2026-03-21T15:02:45.621Z",
+  "createdDate": "2026-09-22T09:27:56.945Z",
+  "modifiedDate": "2026-09-22T09:27:56.945Z",
+  "dashboardFilters": [],
+  "dateTimeFilterConfig": {
+    "applicationFieldMap": {},
+    "defaultSelection": {}
+  },
+  "uid": "security-operations-overview-52358",
+  "version": 11,
+  "id": "a5Vr4vnFTshOc6Ygo",
+  "name": "Security Operations Overview",
+  "disabled": false
+}

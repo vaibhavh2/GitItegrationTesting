@@ -1,0 +1,28 @@
+{
+  "createdDate": "2026-09-22T09:28:01.858Z",
+  "modifiedDate": "2026-09-22T09:28:01.858Z",
+  "playbookId": "6ab24a19b7e20f05fefe5987",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Analyzes and normalizes observable data from various formats (string, array, invalid types), filters by configured types, and merges results back into the TEDS object.\n",
+  "referencedComponents": [
+    "aWUmHOqW3cVzrMZTh"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-f0a70",
+  "version": 20,
+  "id": "aWoiw0KHlTJUYAk1x",
+  "name": "AI SOC - Fix TEDS Observables",
+  "disabled": false
+}

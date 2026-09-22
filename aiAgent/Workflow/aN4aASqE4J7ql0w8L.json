@@ -1,0 +1,364 @@
+{
+  "applicationId": "aGzNhSudxmEKmZM3F",
+  "stages": [
+    {
+      "id": "693863128864544304f5bc38",
+      "name": "Default Action(s)",
+      "disabled": false,
+      "parentId": "a9JCpFeWq7JQxrZOr",
+      "conditionType": "DefaultActions",
+      "evalType": "And",
+      "conditions": [],
+      "actions": [
+        {
+          "fieldId": "ar5hk",
+          "valuesListsIds": [],
+          "actionType": "FilterValues",
+          "parentId": "693863128864544304f5bc38",
+          "id": "693863142a5fe054d4be99ca",
+          "name": "Show Default Scopes",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6938633dae34d4750bb620a6",
+      "name": "Record Type",
+      "disabled": false,
+      "parentId": "a9JCpFeWq7JQxrZOr",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "a05rs",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "a7ctw",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [],
+      "repeats": [],
+      "stages": [
+        {
+          "id": "693863541d4836d8989e7c46",
+          "name": "Signal Triage",
+          "disabled": false,
+          "parentId": "6938633dae34d4750bb620a6",
+          "conditionType": "Equals",
+          "evalType": "And",
+          "conditions": [
+            {
+              "id": "amnkb",
+              "conditionType": "Equals",
+              "fieldId": "a7ctw",
+              "referenceFieldConjunction": 0,
+              "value": "6938624b2ba0aeef7a5e96d8",
+              "isCaseSensitive": true
+            }
+          ],
+          "actions": [
+            {
+              "fieldId": "ar5hk",
+              "valuesListsIds": [
+                "6900d31e37d586e5aafc5f2a",
+                "693846dff165c5075cf22c46",
+                "6900d321c5e12e8b70baf172",
+                "6900d325b8eb17cb9f03c40a",
+                "69eb73e8443b6ea1c2816d40"
+              ],
+              "actionType": "FilterValues",
+              "parentId": "693863541d4836d8989e7c46",
+              "id": "693863658155f748c107fe4a",
+              "name": "Show Signal Scopes",
+              "disabled": false
+            }
+          ],
+          "repeats": [],
+          "stages": []
+        },
+        {
+          "id": "69386360f29ce5cebf4436f6",
+          "name": "Case Management",
+          "disabled": false,
+          "parentId": "6938633dae34d4750bb620a6",
+          "conditionType": "Equals",
+          "evalType": "And",
+          "conditions": [
+            {
+              "id": "anwbd",
+              "conditionType": "Equals",
+              "fieldId": "a7ctw",
+              "referenceFieldConjunction": 0,
+              "value": "6938624aa8c90cca0d272ab1",
+              "isCaseSensitive": true
+            }
+          ],
+          "actions": [
+            {
+              "fieldId": "ar5hk",
+              "valuesListsIds": [
+                "6900d325b8eb17cb9f03c40a",
+                "6938620fb2d88dc545cf8925"
+              ],
+              "actionType": "FilterValues",
+              "parentId": "69386360f29ce5cebf4436f6",
+              "id": "693863976231e629f6b5786b",
+              "name": "Show Case Scopes",
+              "disabled": false
+            }
+          ],
+          "repeats": [],
+          "stages": []
+        },
+        {
+          "id": "6938670b94b9f1580186f136",
+          "name": "All",
+          "disabled": false,
+          "parentId": "6938633dae34d4750bb620a6",
+          "conditionType": "Equals",
+          "evalType": "And",
+          "conditions": [
+            {
+              "id": "atk8v",
+              "conditionType": "Equals",
+              "fieldId": "a7ctw",
+              "referenceFieldConjunction": 0,
+              "value": "693866d97f28182fb26a61cb",
+              "isCaseSensitive": true
+            }
+          ],
+          "actions": [
+            {
+              "fieldId": "ar5hk",
+              "valuesListsIds": [
+                "6900d325b8eb17cb9f03c40a"
+              ],
+              "actionType": "FilterValues",
+              "parentId": "6938670b94b9f1580186f136",
+              "id": "69386720c49f8b7dc80ad003",
+              "name": "Show Global Scope",
+              "disabled": false
+            }
+          ],
+          "repeats": [],
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "693865e91a2b53be5f4afcd0",
+      "name": "Record Saved",
+      "disabled": false,
+      "parentId": "a9JCpFeWq7JQxrZOr",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "afba4",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "avi0l",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldId": "am9t7",
+          "value": [
+            "6938608770e4f1fcae43ce98"
+          ],
+          "actionType": "SetValue",
+          "parentId": "693865e91a2b53be5f4afcd0",
+          "id": "693865f9633cf77d959e58b4",
+          "name": "Set Read Only",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6938660e504042a851be5f33",
+      "name": "Read Only=True",
+      "disabled": false,
+      "parentId": "a9JCpFeWq7JQxrZOr",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "a2vj4",
+          "conditionType": "Equals",
+          "fieldId": "am9t7",
+          "referenceFieldConjunction": 0,
+          "value": [
+            "6938608770e4f1fcae43ce98"
+          ],
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "awxzo": "Read",
+            "avs2k": "Read",
+            "a7ctw": "Read",
+            "a3s8v": "Read",
+            "ar5hk": "Read",
+            "axzul": "Read",
+            "aglj4": "Read",
+            "ah22o": "Read",
+            "a1x8j": "Read"
+          },
+          "actionType": "ReadOnly",
+          "parentId": "6938660e504042a851be5f33",
+          "id": "6938662c1111506ac2bdd468",
+          "name": "Set Fields RO",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6938b97637e53f22e4372c81",
+      "name": "Scope",
+      "disabled": false,
+      "parentId": "a9JCpFeWq7JQxrZOr",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "ayahq",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "ar5hk",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [],
+      "repeats": [],
+      "stages": [
+        {
+          "id": "6938b981e99887100ce1a175",
+          "name": "Scope exists, not global",
+          "disabled": false,
+          "parentId": "6938b97637e53f22e4372c81",
+          "conditionType": "Equals",
+          "evalType": "And",
+          "conditions": [
+            {
+              "id": "a3u61",
+              "conditionType": "DoesNotEqual",
+              "fieldId": "ar5hk",
+              "referenceFieldConjunction": 0,
+              "value": "6900d325b8eb17cb9f03c40a",
+              "isCaseSensitive": true
+            },
+            {
+              "id": "arbol",
+              "conditionType": "DoesNotEqual",
+              "fieldId": "ar5hk",
+              "referenceFieldConjunction": 0,
+              "isCaseSensitive": true
+            }
+          ],
+          "actions": [
+            {
+              "fieldStates": {
+                "a2jnt": "Required"
+              },
+              "actionType": "Required",
+              "parentId": "6938b981e99887100ce1a175",
+              "id": "6938b9cec0b924c36faa68d7",
+              "name": "Set Matching Value Required",
+              "disabled": false
+            }
+          ],
+          "repeats": [],
+          "stages": []
+        }
+      ]
+    },
+    {
+      "id": "6a0e812b8bdef432e7a24e07",
+      "name": "Client Name is not Selected",
+      "disabled": false,
+      "parentId": "a9JCpFeWq7JQxrZOr",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "a8fkm",
+          "conditionType": "Equals",
+          "fieldId": "avlwd",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldId": "avlwd",
+          "value": "All",
+          "actionType": "SetValue",
+          "parentId": "6a0e812b8bdef432e7a24e07",
+          "id": "6a0e81577ab6ad065aa569eb",
+          "name": "Select All Clients",
+          "disabled": false
+        },
+        {
+          "layoutActions": {
+            "69d8c01cd174cf73be24ac93": "Collapse"
+          },
+          "actionType": "ShowHide",
+          "parentId": "6a0e812b8bdef432e7a24e07",
+          "id": "6a50d10d2e1b6b8a57af0569",
+          "name": "Minimize Clients Section",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6a50d130cf8a1afcda1a4d55",
+      "name": "When Client name is Selected",
+      "disabled": false,
+      "parentId": "a9JCpFeWq7JQxrZOr",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "aqgj6",
+          "conditionType": "DoesNotEqual",
+          "fieldId": "avlwd",
+          "referenceFieldConjunction": 0,
+          "value": "All",
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "layoutActions": {
+            "69d8c01cd174cf73be24ac93": "Expand"
+          },
+          "actionType": "ShowHide",
+          "parentId": "6a50d130cf8a1afcda1a4d55",
+          "id": "6a50d1489aa4c0df4eb5385e",
+          "name": "Expand Client Information",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    }
+  ],
+  "createdDate": "2026-09-22T09:27:56.985Z",
+  "modifiedDate": "2026-09-22T10:38:02.67Z",
+  "uid": "aN4aASqE4J7ql0w8L",
+  "version": 11625,
+  "id": "a9JCpFeWq7JQxrZOr",
+  "disabled": false
+}

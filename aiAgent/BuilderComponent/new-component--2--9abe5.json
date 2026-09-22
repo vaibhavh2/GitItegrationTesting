@@ -1,0 +1,25 @@
+{
+  "createdDate": "2026-09-22T09:27:58.324Z",
+  "modifiedDate": "2026-09-22T09:27:58.324Z",
+  "playbookId": "6ab24a19b7e20f05fefe596b",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Determines observable enrichment status by searching threat intelligence records and determining highest threat verdict and risk score\n",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--2--9abe5",
+  "version": 43,
+  "id": "aePROg2qSyYZEflT2",
+  "name": "AI SOC - Get Observable Completion Status",
+  "disabled": false
+}

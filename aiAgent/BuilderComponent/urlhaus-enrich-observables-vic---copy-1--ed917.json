@@ -1,0 +1,28 @@
+{
+  "createdDate": "2026-09-22T09:28:00.955Z",
+  "modifiedDate": "2026-09-22T09:28:00.955Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59af",
+  "intentId": "aX3DA4HV2ARA6m8Mu",
+  "intentName": "Simple Observable to Enrichment v1.0.3",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Enriches observables (URL, IP, domain, MD5, SHA256) using URLHaus service, evaluating malicious activity and returning structured threat intelligence data compliant with TEDS schema.",
+  "referencedComponents": [
+    "aT0MBgT0PDhSCQjJu"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "urlhaus-enrich-observables-vic---copy-1--ed917",
+  "version": 173,
+  "id": "aTKIqHxn64UxuEtt9",
+  "name": "Enrich - URLHaus Enrich Observable (VIC)",
+  "disabled": false
+}

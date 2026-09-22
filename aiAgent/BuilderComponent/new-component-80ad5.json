@@ -1,0 +1,25 @@
+{
+  "createdDate": "2026-09-22T09:28:00.218Z",
+  "modifiedDate": "2026-09-22T09:28:00.218Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59c0",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Searches for existing CASE records using Alert UID and tracks whether a matching record exists along with its tracking ID",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-80ad5",
+  "version": 40,
+  "id": "aWApdnLkMliU9YOvR",
+  "name": "AI SOC - Deduplicate Alert",
+  "disabled": false
+}

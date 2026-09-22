@@ -1,0 +1,67 @@
+{
+  "groupBys": [],
+  "aggregates": [],
+  "applicationIds": [
+    "aGLUPEw5Z3dKNx0wk"
+  ],
+  "columns": [
+    "6933610b634a141219c0926e",
+    "a6tit",
+    "a2nqk",
+    "a1sl2",
+    "attx7",
+    "ayizq",
+    "acy3v",
+    "aooms",
+    "angc3",
+    "av3pc",
+    "ayh75",
+    "afnpq",
+    "agepy",
+    "a0vh1",
+    "ap5rt",
+    "anvjb",
+    "azr64"
+  ],
+  "sorts": {
+    "6933610b634a141219c0926e": "Descending"
+  },
+  "filters": [
+    {
+      "fieldId": "a1sl2",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "6900bc33dd2fa6f3df8c932c",
+      "drillin": false
+    },
+    {
+      "fieldId": "aooms",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "68ffa4663628f43867e52196",
+      "drillin": false
+    },
+    {
+      "fieldId": "angc3",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "68ffa44a5376ec700afbeb1a",
+      "drillin": false
+    }
+  ],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": false,
+  "createdDate": "2026-09-22T09:27:57.042Z",
+  "modifiedDate": "2026-09-22T09:27:57.042Z",
+  "filterType": "Or",
+  "colorCoding": [],
+  "addToHomePage": false,
+  "overfetch": false,
+  "uid": "signals---suspicious-verdicts-e78c4",
+  "version": 332,
+  "id": "aMvvXWellqn3rmmSm",
+  "name": "CASE - Suspicious Verdicts",
+  "disabled": false
+}

@@ -1,0 +1,63 @@
+{
+  "workspaces": [
+    "a6mdfMkLGHuPOMDvp"
+  ],
+  "items": [
+    {
+      "cardType": "Report",
+      "reportId": "aP8Y2o4AdpOajSxNY",
+      "id": "69c1aa3ac8cbdf3b78cd7665",
+      "name": "Observables by Type",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 0,
+      "col": 0,
+      "sizeX": 3,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aPSUhPYxKgC5QH6wo",
+      "id": "69c1aa5bcc736f98a85de6e7",
+      "name": "Observables Enriched Over Time",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 0,
+      "col": 3,
+      "sizeX": 3,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    }
+  ],
+  "timelineEnabled": false,
+  "timelineFilters": {},
+  "minTimelineDate": "2026-03-01T07:00:00Z",
+  "maxTimelineDate": "2026-03-21T15:03:13.851Z",
+  "createdDate": "2026-09-22T09:27:56.941Z",
+  "modifiedDate": "2026-09-22T09:27:56.941Z",
+  "dashboardFilters": [],
+  "dateTimeFilterConfig": {
+    "applicationFieldMap": {},
+    "defaultSelection": {}
+  },
+  "uid": "threat-intelligence-overview-b4f2e",
+  "version": 5,
+  "id": "a4sxnhoi5A5ODUDZI",
+  "name": "Threat Intelligence Overview",
+  "disabled": false
+}

@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a1ab7e20f05fefe59c5",
+  "type": "Playbook",
+  "name": "Claim Case",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.904Z",
+  "modifiedDate": "2026-09-22T09:27:56.904Z",
+  "uid": "button-1-8b73c",
+  "version": 5,
+  "id": "aOG9WW8PyPfumFCw5",
+  "disabled": false
+}

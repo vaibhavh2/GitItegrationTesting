@@ -1,0 +1,25 @@
+{
+  "createdDate": "2026-09-22T09:28:00.636Z",
+  "modifiedDate": "2026-09-22T09:28:00.636Z",
+  "playbookId": "6ab24a19b7e20f05fefe5984",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Extracts custom TEDS values from raw alert data and maps them to the extended alert object format",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-335b1",
+  "version": 16,
+  "id": "acpiAcbyzhY2lbvfm",
+  "name": "AI SOC - Extend TEDS Alert",
+  "disabled": false
+}

@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe596c",
+  "type": "Playbook",
+  "name": "Run Rule Against Pending Signals",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aHIKL4OPed1qTNWcV",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.915Z",
+  "modifiedDate": "2026-09-22T09:27:56.915Z",
+  "uid": "button-1-72d8c",
+  "version": 3,
+  "id": "aJpuUyIbDSRs1ss5X",
+  "disabled": false
+}

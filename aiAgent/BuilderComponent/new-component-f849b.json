@@ -1,0 +1,29 @@
+{
+  "createdDate": "2026-09-22T09:27:57.504Z",
+  "modifiedDate": "2026-09-22T09:27:57.504Z",
+  "playbookId": "6ab24a19b7e20f05fefe5982",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Triggers analysis agent for agentic investigation.",
+  "referencedComponents": [
+    "aXlYrqnbr1i_dcEii",
+    "aaI80jhnPs81C6aBk"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-f849b",
+  "version": 77,
+  "id": "aac4fLBZ6iwWtvkk_",
+  "name": "AI SOC - Trigger Analysis Agent",
+  "disabled": false
+}

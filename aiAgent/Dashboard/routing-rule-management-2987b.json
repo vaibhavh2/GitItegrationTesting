@@ -1,0 +1,43 @@
+{
+  "workspaces": [
+    "a6mdfMkLGHuPOMDvp"
+  ],
+  "items": [
+    {
+      "cardType": "Report",
+      "reportId": "aPmRL12j1W_b75HV3",
+      "id": "695fd6604032f68aefc1776c",
+      "name": "Routing Rule Mgmt Widget",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 0,
+      "col": 0,
+      "sizeX": 6,
+      "sizeY": 11,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    }
+  ],
+  "timelineEnabled": false,
+  "timelineFilters": {},
+  "minTimelineDate": "2026-01-01T07:00:00Z",
+  "maxTimelineDate": "2026-01-09T16:04:51.182Z",
+  "createdDate": "2026-09-22T09:27:56.94Z",
+  "modifiedDate": "2026-09-22T09:27:56.94Z",
+  "dashboardFilters": [],
+  "dateTimeFilterConfig": {
+    "applicationFieldMap": {},
+    "defaultSelection": {}
+  },
+  "uid": "routing-rule-management-2987b",
+  "version": 9,
+  "id": "a4Z095JwOJHtWg302",
+  "name": "Routing Rule Management",
+  "disabled": false
+}

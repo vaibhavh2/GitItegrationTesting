@@ -1,0 +1,25 @@
+{
+  "createdDate": "2026-09-22T09:28:01.569Z",
+  "modifiedDate": "2026-09-22T09:28:01.569Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59b1",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Searches KB articles by CASE attributes and rules, then merges unique tracking IDs from all search results",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--2--f5d8d",
+  "version": 51,
+  "id": "abEyxZA6VQXXHY4sV",
+  "name": "AI SOC - Find Matching KB Articles for CASE",
+  "disabled": false
+}

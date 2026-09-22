@@ -1,0 +1,25 @@
+{
+  "createdDate": "2026-09-22T09:28:02.416Z",
+  "modifiedDate": "2026-09-22T09:28:02.416Z",
+  "playbookId": "6ab24a19b7e20f05fefe5983",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Processes security observables by extracting file hashes when applicable and upserting threat intelligence records with timestamps for tracking\n",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-f958a",
+  "version": 22,
+  "id": "acVlX07CHqkY3nl6W",
+  "name": "AI SOC - Submit Observable to Threat Intelligence Record",
+  "disabled": false
+}

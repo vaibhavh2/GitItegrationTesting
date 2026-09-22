@@ -1,0 +1,27 @@
+{
+  "playbookIds": [
+    "6ab24a1ab7e20f05fefe59a5"
+  ],
+  "createdDate": "2026-09-22T09:27:57.119Z",
+  "modifiedDate": "2026-09-22T09:27:57.119Z",
+  "isMarketplace": false,
+  "description": "Triggers the analysis agent via routing rule",
+  "referencedComponents": [
+    "aaw1IxgKoZk1ajvJF",
+    "aac4fLBZ6iwWtvkk_"
+  ],
+  "annotations": [],
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-playbook-f0834",
+  "version": 22,
+  "id": "aSwun7wR_40d4Cy5b",
+  "name": "AI SOC - Trigger Analysis Agent via Routing Rule",
+  "disabled": true
+}

@@ -1,0 +1,62 @@
+{
+  "applicationId": "aHIKL4OPed1qTNWcV",
+  "stages": [
+    {
+      "id": "6984c980fa35297d52372d20",
+      "name": "Default Action(s)",
+      "disabled": false,
+      "parentId": "a8_GAe9l8GVwG2Oqb",
+      "conditionType": "DefaultActions",
+      "evalType": "And",
+      "conditions": [],
+      "actions": [],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "6984c982b607c5c1a4fb502a",
+      "name": "If Read Only",
+      "disabled": false,
+      "parentId": "a8_GAe9l8GVwG2Oqb",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "arl0v",
+          "conditionType": "Equals",
+          "fieldId": "a91z3",
+          "referenceFieldConjunction": 0,
+          "value": [
+            "6984c96fb632161488e855fa"
+          ],
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "atxjx": "Read",
+            "ayfuj": "Read",
+            "ak29c": "Read",
+            "afbhl": "Read",
+            "abkna": "Read",
+            "abt93": "Read"
+          },
+          "actionType": "ReadOnly",
+          "parentId": "6984c982b607c5c1a4fb502a",
+          "id": "6984c990cd9adf1f105619a3",
+          "name": "Set RO Fields",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    }
+  ],
+  "createdDate": "2026-09-22T09:27:56.967Z",
+  "modifiedDate": "2026-09-22T10:38:02.579Z",
+  "uid": "a4pZOkhO2tjhCzW_G",
+  "version": 10990,
+  "id": "a8_GAe9l8GVwG2Oqb",
+  "disabled": false
+}

@@ -1,0 +1,25 @@
+{
+  "createdDate": "2026-09-22T09:28:03.234Z",
+  "modifiedDate": "2026-09-22T09:28:03.234Z",
+  "playbookId": "6ab24a19b7e20f05fefe5968",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--2--f8733",
+  "version": 4,
+  "id": "adO93I2xyFTE10UYz",
+  "name": "AI SOC - Update Playbook Run ID",
+  "disabled": false
+}

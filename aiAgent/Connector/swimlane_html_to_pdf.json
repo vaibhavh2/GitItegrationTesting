@@ -1,0 +1,8 @@
+{
+  "manifestVersion": "1.4.0",
+  "uid": "swimlane_html_to_pdf",
+  "version": 1,
+  "id": "swimlane_html_to_pdf",
+  "name": "HTML to PDF",
+  "disabled": false
+}

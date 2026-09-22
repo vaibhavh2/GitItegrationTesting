@@ -1,0 +1,236 @@
+{
+  "workspaces": [
+    "a6mdfMkLGHuPOMDvp"
+  ],
+  "items": [
+    {
+      "cardType": "Report",
+      "reportId": "aFKC3rwD3LX_AHl1g",
+      "id": "69c154ab0a1dd8a858601a4d",
+      "name": "Active Triage Queue",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 0,
+      "col": 0,
+      "sizeX": 6,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aCncuz11UW7ybnPYe",
+      "id": "69c15474068bdf9944edde3d",
+      "name": "Requires Attention by Current Owner",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 3,
+      "col": 0,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aNEsB88XShaZYax11",
+      "id": "69c155e10b044ff7f6ca20df",
+      "name": "Cases Created Over Time",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 3,
+      "col": 3,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aCTgGMXFnfKSuzE_O",
+      "id": "69c15527821f421a152be6ef",
+      "name": "Assigned per Analyst",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 6,
+      "col": 0,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aHDswWrrETM0L9lOC",
+      "id": "69c31558b964c151897ce283",
+      "name": "Ongoing Incidents and Cases by Priority Chart",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 6,
+      "col": 3,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aK4Ok1FoV9ZXbTGQU",
+      "id": "69c1c25f3f992add56ad9c65",
+      "name": "Blocked Cases",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 9,
+      "col": 0,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "ayizq",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aDkSqoULa4XThDvEP",
+      "id": "69c1c27969eb590aebdcfbc4",
+      "name": "Blocked Cases by Current Owner",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 9,
+      "col": 3,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "ayizq",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aKiI1FELtsAX_5bX_",
+      "id": "69c154fad85f1a32161eedf5",
+      "name": "Ongoing Cases by Priority",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 12,
+      "col": 0,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aLz4bhBRgHNYmLGn0",
+      "id": "69c1c3fa57449a77c25f3574",
+      "name": "Ongoing Case Severity",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 12,
+      "col": 3,
+      "sizeX": 3,
+      "sizeY": 3,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "ayizq",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aJ7YoBnUPbA1W1lkj",
+      "id": "69c314796e0633cc5f2e9097",
+      "name": "Incident Count",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 15,
+      "col": 0,
+      "sizeX": 2,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true,
+      "dateTimeFilterConfig": {
+        "dateTimeFieldId": "",
+        "defaultSelection": {
+          "start": "",
+          "end": ""
+        }
+      }
+    },
+    {
+      "cardType": "Report",
+      "reportId": "aGH1_hOX8uxVFjFiR",
+      "id": "69c314b9c8e1e770bf108f43",
+      "name": "Ongoing Incident List",
+      "description": "",
+      "autoRefreshMilliseconds": 0,
+      "row": 15,
+      "col": 2,
+      "sizeX": 4,
+      "sizeY": 4,
+      "useDashboardDateTimeFilter": true
+    }
+  ],
+  "timelineEnabled": false,
+  "timelineFilters": {},
+  "minTimelineDate": "2026-03-01T07:00:00Z",
+  "maxTimelineDate": "2026-03-21T15:02:07.817Z",
+  "createdDate": "2026-09-22T09:27:56.943Z",
+  "modifiedDate": "2026-09-22T09:27:56.943Z",
+  "dashboardFilters": [],
+  "dateTimeFilterConfig": {
+    "applicationFieldMap": {},
+    "defaultSelection": {}
+  },
+  "uid": "analyst-triage-queue-1abdd",
+  "version": 22,
+  "id": "a5pnjXH1AjUuIvjF3",
+  "name": "Analyst Triage Queue",
+  "disabled": false
+}

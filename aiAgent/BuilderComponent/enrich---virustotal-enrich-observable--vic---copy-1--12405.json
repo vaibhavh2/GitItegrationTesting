@@ -1,0 +1,29 @@
+{
+  "createdDate": "2026-09-22T09:27:58.183Z",
+  "modifiedDate": "2026-09-22T09:27:58.183Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59b8",
+  "intentId": "aX3DA4HV2ARA6m8Mu",
+  "intentName": "Simple Observable to Enrichment v1.0.2",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Description: Takes a single observable (observable_type and observable_value) where observable_type is only url or domain, enriches it with URLScan, and returns one normalized TEDS enrichment. Do not select this component for IP (ipv4, ipv4_public, ipv6), hashes (md5, sha1, sha256), or any other observable type.\n\nInputs: one observable object with observable_type(url or domain only) and observable_value.\n\nOutputs: one TEDS enrichment.\n\nConfiguration: none required.",
+  "referencedComponents": [
+    "aVDzhxtQHCIz46uEg",
+    "aT0MBgT0PDhSCQjJu"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "enrich---virustotal-enrich-observable--vic---copy-1--12405",
+  "version": 168,
+  "id": "aVXwLZNBz36Tlw3nw",
+  "name": "Enrich - URLScan Enrich Observable (VIC)",
+  "disabled": false
+}

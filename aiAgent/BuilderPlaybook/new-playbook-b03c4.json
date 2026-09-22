@@ -1,0 +1,107 @@
+{
+  "playbookIds": [
+    "6ab24a19b7e20f05fefe5970",
+    "6ab24a1ab7e20f05fefe599e",
+    "6ab24a1ab7e20f05fefe59a0",
+    "6ab24a1ab7e20f05fefe599d",
+    "6ab24a19b7e20f05fefe5977",
+    "6ab24a19b7e20f05fefe597b",
+    "6ab24a19b7e20f05fefe5964"
+  ],
+  "createdDate": "2026-09-22T09:27:57.602Z",
+  "modifiedDate": "2026-09-22T09:27:57.602Z",
+  "isMarketplace": false,
+  "description": "This Remediation Playbook provides a foundational, vendor-agnostic suite of template workflows designed to accelerate your incident response capabilities. It features customizable blueprints for critical containment actions, including securing compromised user identities, isolating affected endpoints, and blocking malicious network observables. As a structural baseline, these non-functional templates empower security teams to quickly map and activate automated remediation processes using their own preferred integrations and operational requirements.",
+  "referencedComponents": [
+    "aXlYrqnbr1i_dcEii"
+  ],
+  "annotations": [
+    {
+      "content": "\u003Cp\u003ENote: This is a template and not a complete and functional flow. Configure the rest of the flow as per the requirements.\u003C/p\u003E",
+      "elementId": "6ab24a19b7e20f05fefe5970-solution_aScy8WRgIDD7NOnXL_playbook",
+      "nodeType": "playbook",
+      "playbookId": "6ab24a19b7e20f05fefe5970",
+      "id": "dcd32020-4995-4d8a-8329-33da2ee655a1",
+      "offsetX": 7.325901601624707,
+      "offsetY": -94.41785892490428
+    },
+    {
+      "content": "\u003Cp\u003ENote: This is a template and not a complete and functional flow. Configure the rest of the flow as per the requirements.\u003C/p\u003E",
+      "elementId": "6ab24a1ab7e20f05fefe599e-solution_aScy8WRgIDD7NOnXL_playbook_ap8t2",
+      "nodeType": "playbook",
+      "playbookId": "6ab24a1ab7e20f05fefe599e",
+      "id": "819cc47b-5de5-47b6-9da7-efd077b67bdc",
+      "offsetX": -3.2714455158725286,
+      "offsetY": -99.15202807902405
+    },
+    {
+      "content": "\u003Cp\u003ENote: This is a template and not a complete and functional flow. Configure the rest of the flow as per the requirements.\u003C/p\u003E",
+      "elementId": "6ab24a1ab7e20f05fefe59a0-solution_aScy8WRgIDD7NOnXL_playbook_a94kw",
+      "nodeType": "playbook",
+      "playbookId": "6ab24a1ab7e20f05fefe59a0",
+      "id": "f2dede49-3913-4cf6-8eae-9746c1fdee17",
+      "offsetX": -4.3477079027620675,
+      "offsetY": -109.06805712672927
+    },
+    {
+      "content": "\u003Cp\u003ENote: This is a template and not a complete and functional flow. Configure the rest of the flow as per the requirements.\u003C/p\u003E",
+      "elementId": "6ab24a1ab7e20f05fefe599d-solution_aScy8WRgIDD7NOnXL_playbook_a192m",
+      "nodeType": "playbook",
+      "playbookId": "6ab24a1ab7e20f05fefe599d",
+      "id": "6368b166-f756-4bd1-8d99-3485fecd62d1",
+      "offsetX": 5.471729073819915,
+      "offsetY": -98.87560387747133
+    },
+    {
+      "content": "\u003Cp\u003ENote: This is a template and not a complete and functional flow. Configure the rest of the flow as per the requirements.\u003C/p\u003E",
+      "elementId": "6ab24a19b7e20f05fefe5977-solution_aScy8WRgIDD7NOnXL_playbook_aqoad",
+      "nodeType": "playbook",
+      "playbookId": "6ab24a19b7e20f05fefe5977",
+      "id": "40ea2868-b342-4065-92f6-9b2bb3ac3b01",
+      "offsetX": -23.70122418893152,
+      "offsetY": -107.00100485699868
+    },
+    {
+      "content": "\u003Cp\u003ENote: This is a template and not a complete and functional playbook. Configure the rest of the flow as per the requirements.\u003C/p\u003E",
+      "elementId": "6ab24a19b7e20f05fefe597b-solution_aScy8WRgIDD7NOnXL_playbook_ae403",
+      "nodeType": "playbook",
+      "playbookId": "6ab24a19b7e20f05fefe597b",
+      "id": "19585730-5632-4208-bb4b-e2a0c84cfdcc",
+      "offsetX": -24.5421220389444,
+      "offsetY": -102.2914921612946
+    },
+    {
+      "content": "\u003Cp\u003ENote: This is a template and not a complete and functional flow. Configure the rest of the flow as per the requirements.\u003C/p\u003E",
+      "elementId": "6ab24a19b7e20f05fefe5964-solution_aScy8WRgIDD7NOnXL_playbook_aqwtt",
+      "nodeType": "playbook",
+      "playbookId": "6ab24a19b7e20f05fefe5964",
+      "id": "6f8a3243-59f1-419f-b7b0-95b28838cb62",
+      "offsetX": -2.453505945373763,
+      "offsetY": -97.34114026033028
+    },
+    {
+      "content": "\u003Ch3 data-path-to-node=\u00220\u0022\u003ERemediation Playbook Templates\u003C/h3\u003E\n\u003Cp data-path-to-node=\u00221\u0022\u003E\u003Cstrong data-path-to-node=\u00221\u0022 data-index-in-node=\u00220\u0022\u003EContent Version:\u003C/strong\u003E 26.2.0\u003C/p\u003E\n\u003Cp data-path-to-node=\u00222\u0022\u003E\u003Cstrong data-path-to-node=\u00222\u0022 data-index-in-node=\u00220\u0022\u003EOverview\u003C/strong\u003E This playbook provides a foundational suite of non-functional template flows designed to accelerate incident response and remediation processes. Rather than dictating specific tools, these templates serve as a customizable, vendor-agnostic baseline. Security teams can use these structural frameworks as a starting point to easily configure, map, and deploy automated actions using their integrations of choice and specific operational requirements.\u003C/p\u003E\n\u003Ch3 data-path-to-node=\u00224\u0022\u003EIncluded Template Flows\u003C/h3\u003E\n\u003Cul data-path-to-node=\u00225\u0022\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u00225,0,0\u0022\u003E\u003Cstrong data-path-to-node=\u00225,0,0\u0022 data-index-in-node=\u00220\u0022\u003EObservable Remediation - Block:\u003C/strong\u003E A framework for blocking malicious observables (e.g., IPs, domains, URLs, file hashes) across your designated network, web gateway, or endpoint security controls.\u003C/p\u003E\n\u003C/li\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u00225,1,0\u0022\u003E\u003Cstrong data-path-to-node=\u00225,1,0\u0022 data-index-in-node=\u00220\u0022\u003EObservable Remediation - Unblock:\u003C/strong\u003E A template to reverse the blocking of observables, allowing teams to quickly mitigate false positives or restore normal operations once a threat is neutralized.\u003C/p\u003E\n\u003C/li\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u00225,2,0\u0022\u003E\u003Cstrong data-path-to-node=\u00225,2,0\u0022 data-index-in-node=\u00220\u0022\u003EUser Account - Block:\u003C/strong\u003E A workflow structure designed to disable, suspend, or lock compromised user accounts within your Identity and Access Management (IAM) or Active Directory environments.\u003C/p\u003E\n\u003C/li\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u00225,3,0\u0022\u003E\u003Cstrong data-path-to-node=\u00225,3,0\u0022 data-index-in-node=\u00220\u0022\u003EUser Account - Unblock:\u003C/strong\u003E A template for restoring standard user account access following successful remediation, password resets, or identity verification.\u003C/p\u003E\n\u003C/li\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u00225,4,0\u0022\u003E\u003Cstrong data-path-to-node=\u00225,4,0\u0022 data-index-in-node=\u00220\u0022\u003ERevoke Access Tokens:\u003C/strong\u003E A baseline flow intended to force session termination and revoke active authentication tokens (e.g., OAuth, SSO sessions) to immediately halt unauthorized access.\u003C/p\u003E\n\u003C/li\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u00225,5,0\u0022\u003E\u003Cstrong data-path-to-node=\u00225,5,0\u0022 data-index-in-node=\u00220\u0022\u003EIsolate Host:\u003C/strong\u003E A framework for containing a potentially compromised endpoint. Once configured with your EDR/XDR tool, this flow cuts off external network connectivity while preserving secure access for forensic investigation.\u003C/p\u003E\n\u003C/li\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u00225,6,0\u0022\u003E\u003Cstrong data-path-to-node=\u00225,6,0\u0022 data-index-in-node=\u00220\u0022\u003ERelease Host:\u003C/strong\u003E A template to lift isolation protocols and restore standard network connectivity to an endpoint once it has been sanitized, patched, and cleared by the security team.\u003C/p\u003E\n\u003C/li\u003E\n\u003C/ul\u003E\n\u003Ch3 data-path-to-node=\u00227\u0022\u003EConfiguration Guidelines\u003C/h3\u003E\n\u003Cblockquote data-path-to-node=\u00228\u0022\u003E\n\u003Cp data-path-to-node=\u00228,0\u0022\u003E\u003Cstrong data-path-to-node=\u00228,0\u0022 data-index-in-node=\u00220\u0022\u003EImportant Note:\u003C/strong\u003E These flows are provided as \u003Cstrong data-path-to-node=\u00228,0\u0022 data-index-in-node=\u002270\u0022\u003Efunctionally inactive\u003C/strong\u003E templates.\u003C/p\u003E\n\u003C/blockquote\u003E\n\u003Cp data-path-to-node=\u00229\u0022\u003ETo utilize these flows in a production environment, clients must:\u003C/p\u003E\n\u003Col start=\u00221\u0022 data-path-to-node=\u002210\u0022\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u002210,0,0\u0022\u003E\u003Cstrong data-path-to-node=\u002210,0,0\u0022 data-index-in-node=\u00220\u0022\u003ESelect Integrations: Add/Swap\u003C/strong\u003E out actions with your specific security integrations (e.g., CrowdStrike, Palo Alto Networks, Okta, Microsoft Entra ID).\u003C/p\u003E\n\u003C/li\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u002210,1,0\u0022\u003E\u003Cstrong data-path-to-node=\u002210,1,0\u0022 data-index-in-node=\u00220\u0022\u003EMap Variables:\u003C/strong\u003E Configure the necessary inputs, outputs, and authentication credentials for your environment.\u003C/p\u003E\n\u003C/li\u003E\n\u003Cli\u003E\n\u003Cp data-path-to-node=\u002210,2,0\u0022\u003E\u003Cstrong data-path-to-node=\u002210,2,0\u0022 data-index-in-node=\u00220\u0022\u003ETest:\u003C/strong\u003E Run the modified flows in a staging or testing environment to ensure they align with internal security policies and do not disrupt critical business operations.\u003C/p\u003E\n\u003C/li\u003E\n\u003C/ol\u003E",
+      "elementId": "6ab24a19b7e20f05fefe5970-solution_aScy8WRgIDD7NOnXL_playbook",
+      "nodeType": "playbook",
+      "playbookId": "6ab24a19b7e20f05fefe5970",
+      "id": "dbb3e0cd-310b-4308-9f94-52d4dd130993",
+      "offsetX": -40.64967422251812,
+      "offsetY": -666.7191076477752,
+      "width": 500,
+      "height": 300
+    }
+  ],
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-playbook-b03c4",
+  "version": 54,
+  "id": "aScy8WRgIDD7NOnXL",
+  "name": "AI SOC - Remediation",
+  "disabled": true
+}

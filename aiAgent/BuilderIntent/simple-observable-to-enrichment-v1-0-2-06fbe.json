@@ -1,0 +1,79 @@
+{
+  "$type": "Core.Models.SolutionBuilder.BuilderIntent, Core",
+  "inputs": {
+    "type": "object",
+    "properties": {
+      "observable": {
+        "type": "object",
+        "properties": {
+          "observable_metadata": {
+            "title": "observable_metadata",
+            "description": "Observable Metadata",
+            "type": "object"
+          },
+          "observable_type": {
+            "title": "observable_type",
+            "description": "observable_type",
+            "type": "string"
+          },
+          "observable_value": {
+            "title": "observable_value",
+            "description": "observable_value",
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "outputs": {
+    "type": "object",
+    "properties": {
+      "enrichment": {
+        "type": "object",
+        "properties": {
+          "enrichment_context": {
+            "title": "enrichment_context",
+            "description": "enrichment_context",
+            "type": "string"
+          },
+          "enrichment_permalink": {
+            "title": "enrichment_permalink",
+            "description": "enrichment_permalink",
+            "type": "string"
+          },
+          "enrichment_provider": {
+            "title": "enrichment_provider",
+            "description": "The enrichment data provider name.",
+            "type": "string"
+          },
+          "enrichment_raw_data": {
+            "title": "enrichment_raw-data",
+            "description": "enrichment_raw-data",
+            "type": "string"
+          },
+          "enrichment_timestamp": {
+            "title": "enrichment_timestamp",
+            "description": "Datetime the enrichment was retrieved",
+            "type": "string"
+          },
+          "enrichment_type": {
+            "title": "enrichment_type",
+            "description": "The enrichment type. For example: location",
+            "type": "string"
+          },
+          "enrichment_verdict": {
+            "title": "enrichment_verdict",
+            "description": "The reputation verdict",
+            "type": "string"
+          }
+        }
+      }
+    }
+  },
+  "isMarketplace": false,
+  "uid": "simple-observable-to-enrichment-v1-0-2-06fbe",
+  "version": 28,
+  "id": "aX3DA4HV2ARA6m8Mu",
+  "name": "Simple Observable to Enrichment v1.0.2",
+  "disabled": false
+}

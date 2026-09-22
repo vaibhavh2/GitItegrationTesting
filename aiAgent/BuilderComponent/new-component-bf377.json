@@ -1,0 +1,28 @@
+{
+  "createdDate": "2026-09-22T09:28:03.63Z",
+  "modifiedDate": "2026-09-22T09:28:03.63Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59a9",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Analyzes MITRE ATT\u0026CK techniques from case records using AI to map tactics and techniques to MITRE D3FEND countermeasures. Returns existing analysis if available, otherwise generates new analysis with detailed defense recommendations.",
+  "referencedComponents": [
+    "aY4VVSHNXtWVKQPGy"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-bf377",
+  "version": 53,
+  "id": "aYOS93m9EkK01EZqD",
+  "name": "AI SOC - Hero AI MITRE Analysis",
+  "disabled": false
+}

@@ -1,0 +1,54 @@
+{
+  "groupBys": [],
+  "aggregates": [],
+  "applicationIds": [
+    "aGLUPEw5Z3dKNx0wk"
+  ],
+  "columns": [
+    "a1sl2",
+    "a2nqk",
+    "attx7",
+    "ayizq",
+    "angc3",
+    "ayh75",
+    "afnpq",
+    "agepy",
+    "6933610b634a141219c0926e"
+  ],
+  "sorts": {
+    "6933610b634a141219c0926e": "Descending"
+  },
+  "filters": [
+    {
+      "fieldId": "am8rj",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "69c123a570112d3e28fe5b2c",
+      "drillin": false
+    },
+    {
+      "fieldId": "a6tit",
+      "filterType": "DoesNotEqual",
+      "filterOperationType": 0,
+      "value": "68ff9ed0cf39adc60fa79ab7",
+      "drillin": false
+    }
+  ],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": false,
+  "createdDate": "2026-09-22T09:27:56.882Z",
+  "modifiedDate": "2026-09-22T09:27:56.882Z",
+  "statsDrillin": false,
+  "filterType": "And",
+  "colorCoding": [],
+  "addToHomePage": false,
+  "autoRefreshMilliseconds": 0,
+  "overfetch": false,
+  "uid": "case---ongoing-incident-list-493d9",
+  "version": 232,
+  "id": "aGH1_hOX8uxVFjFiR",
+  "name": "CASE - Ongoing Incident List",
+  "disabled": false
+}

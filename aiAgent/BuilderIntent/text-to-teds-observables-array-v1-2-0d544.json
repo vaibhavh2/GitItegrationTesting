@@ -1,0 +1,38 @@
+{
+  "$type": "Core.Models.SolutionBuilder.BuilderIntent, Core",
+  "inputs": {
+    "type": "object",
+    "properties": {
+      "text_value": {
+        "title": "Text Value",
+        "description": "",
+        "type": "string"
+      }
+    }
+  },
+  "outputs": {
+    "type": "object",
+    "properties": {
+      "observables": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "properties": {
+            "observable_type": {
+              "type": "string"
+            },
+            "observable_value": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  },
+  "isMarketplace": false,
+  "uid": "text-to-teds-observables-array-v1-2-0d544",
+  "version": 23,
+  "id": "aWQJsrIxeSq9j8oFO",
+  "name": "Text to Array of Observables v1.0.2",
+  "disabled": false
+}

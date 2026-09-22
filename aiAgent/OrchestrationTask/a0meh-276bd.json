@@ -1,0 +1,33 @@
+{
+  "playbookId": "6ab24a1ab7e20f05fefe599c",
+  "type": "Playbook",
+  "name": "a0meh",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGfR2rPsFvQq4lBU_",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [
+    {
+      "availableMappings": [
+        "triggerType",
+        "dateTimeExecuted",
+        "user"
+      ],
+      "hasRecord": true,
+      "onRecordCreate": true,
+      "onRecordUpdate": false,
+      "onCorrelationActionComplete": false,
+      "type": "orchestrationTask",
+      "conditions": []
+    }
+  ],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.888Z",
+  "modifiedDate": "2026-09-22T09:27:56.888Z",
+  "uid": "a0meh-276bd",
+  "version": 2,
+  "id": "aL5h4PFg_sesp7XKY",
+  "disabled": false
+}

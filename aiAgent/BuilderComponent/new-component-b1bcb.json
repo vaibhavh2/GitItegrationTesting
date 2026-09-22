@@ -1,0 +1,27 @@
+{
+  "createdDate": "2026-09-22T09:28:01.051Z",
+  "modifiedDate": "2026-09-22T09:28:01.051Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59c3",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Filters observables by configured types, submits them to threat intelligence for enrichment, and tracks all resulting record IDs.\n",
+  "referencedComponents": [
+    "acVlX07CHqkY3nl6W"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-b1bcb",
+  "version": 22,
+  "id": "acBotOdQazx2MzaYG",
+  "name": "AI SOC - Enrich Observables",
+  "disabled": false
+}

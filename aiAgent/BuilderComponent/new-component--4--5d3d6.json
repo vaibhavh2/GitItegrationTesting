@@ -1,0 +1,28 @@
+{
+  "createdDate": "2026-09-22T09:28:02.323Z",
+  "modifiedDate": "2026-09-22T09:28:02.323Z",
+  "playbookId": "6ab24a19b7e20f05fefe5961",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Retrieves rule records and iterates through paginated pending CASE records to evaluate and execute matching rules\n",
+  "referencedComponents": [
+    "aZLI4uETKIjW6g4Vz"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--4--5d3d6",
+  "version": 61,
+  "id": "aZfEjVjF19X0oUF4E",
+  "name": "Run Rule Against Pending CASEs",
+  "disabled": false
+}

@@ -1,0 +1,26 @@
+{
+  "createdDate": "2026-09-22T09:28:02.529Z",
+  "modifiedDate": "2026-09-22T09:28:02.529Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59a8",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Cleans the output coming from previous step outputs in the AI-SOC playbooks, using $actions.",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-a58c2",
+  "version": 93,
+  "id": "aXRcDEIq9AvUwo49S",
+  "name": "AI SOC - Filter Evidence",
+  "disabled": false
+}

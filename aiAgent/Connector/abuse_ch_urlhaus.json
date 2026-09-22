@@ -1,0 +1,8 @@
+{
+  "manifestVersion": "1.6.7",
+  "uid": "abuse_ch_urlhaus",
+  "version": 1,
+  "id": "abuse_ch_urlhaus",
+  "name": "Abuse URLhaus",
+  "disabled": false
+}

@@ -1,0 +1,38 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe596a",
+  "type": "Playbook",
+  "name": "af3x3",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGfR2rPsFvQq4lBU_",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [
+    {
+      "availableMappings": [
+        "triggerType",
+        "dateTimeExecuted",
+        "user"
+      ],
+      "hasRecord": true,
+      "onRecordCreate": false,
+      "onRecordUpdate": true,
+      "onCorrelationActionComplete": false,
+      "type": "orchestrationTask",
+      "conditions": [
+        {
+          "key": "if",
+          "value": "{\u0022$:and\u0022:[[{\u0022$:ref\u0022:\u0022$event.data.record.values[\u0027requires-reenrichment\u0027]\u0022},{\u0022$:match\u0022:\u0022True\u0022},{\u0022ignoreCase\u0022:true}],[{\u0022$:ref\u0022:\u0022$event.data.record.values[\u0027ti-last-updated\u0027]\u0022},{\u0022$:empty\u0022:true}]]}"
+        }
+      ]
+    }
+  ],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.913Z",
+  "modifiedDate": "2026-09-22T09:27:56.913Z",
+  "uid": "af3x3-c3d85",
+  "version": 3,
+  "id": "aLPdj0kShjSNVwhto",
+  "disabled": false
+}

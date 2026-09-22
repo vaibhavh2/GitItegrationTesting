@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe5964",
+  "type": "Playbook",
+  "name": "Release Host",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.917Z",
+  "modifiedDate": "2026-09-22T09:27:56.917Z",
+  "uid": "release-host-44332",
+  "version": 2,
+  "id": "aShPY3zEiMtxVcYle",
+  "disabled": false
+}

@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe5990",
+  "type": "Playbook",
+  "name": "Run Rules Engine",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.89Z",
+  "modifiedDate": "2026-09-22T09:27:56.89Z",
+  "uid": "playbook-button-5d1ae",
+  "version": 3,
+  "id": "aK8r8ZnMvJFMjh1en",
+  "disabled": false
+}

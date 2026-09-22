@@ -1,0 +1,8 @@
+{
+  "manifestVersion": "1.1.7",
+  "uid": "turbine_attachment",
+  "version": 1,
+  "id": "turbine_attachment",
+  "name": "Analyze Attachments",
+  "disabled": false
+}

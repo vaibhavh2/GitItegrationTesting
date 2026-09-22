@@ -1,0 +1,25 @@
+{
+  "createdDate": "2026-09-22T09:28:03.085Z",
+  "modifiedDate": "2026-09-22T09:28:03.085Z",
+  "playbookId": "6ab24a19b7e20f05fefe597f",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Extracts and parses JSON objects from text input, handling code fences and nested structures, returning the first parsed object and array of all found objects.",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-08414",
+  "version": 27,
+  "id": "aY4VVSHNXtWVKQPGy",
+  "name": "Extract - Parse JSON from Text",
+  "disabled": false
+}

@@ -1,0 +1,8 @@
+{
+  "manifestVersion": "2.8.3",
+  "uid": "virustotal",
+  "version": 1,
+  "id": "virustotal",
+  "name": "VirusTotal Analysis",
+  "disabled": false
+}

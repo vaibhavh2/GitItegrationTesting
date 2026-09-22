@@ -1,0 +1,29 @@
+{
+  "createdDate": "2026-09-22T09:27:58.744Z",
+  "modifiedDate": "2026-09-22T09:27:58.744Z",
+  "playbookId": "6ab24a19b7e20f05fefe598b",
+  "intentId": "aX3DA4HV2ARA6m8Mu",
+  "intentName": "Simple Observable to Enrichment v1.0.2",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Enriches observables using AbuseIPDB API. Accepts IPv4/IPv6 public addresses and produces TEDS-compliant enrichment output.\nInput: Observable type should be ipv4_public or ipv6_public, and observable value should be the IP address",
+  "referencedComponents": [
+    "aT0MBgT0PDhSCQjJu"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "abuseipdb-enrich-observable-vic--copy-1--ca147",
+  "version": 116,
+  "id": "aUb5PjustUhygUZ7A",
+  "name": "Enrich - AbuseIPDB Enrich Observable (VIC)",
+  "disabled": false
+}

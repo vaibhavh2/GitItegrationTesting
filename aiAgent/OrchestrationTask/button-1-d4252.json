@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe595e",
+  "type": "Playbook",
+  "name": "Check Threat Intelligence Results",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.869Z",
+  "modifiedDate": "2026-09-22T09:27:56.869Z",
+  "uid": "button-1-d4252",
+  "version": 3,
+  "id": "aM2X0Ej05R3NuZ20J",
+  "disabled": false
+}
