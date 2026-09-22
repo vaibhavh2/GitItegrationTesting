@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a1ab7e20f05fefe59b4",
+  "type": "Playbook",
+  "name": "Generate After Actions Report",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.886Z",
+  "modifiedDate": "2026-09-22T09:27:56.886Z",
+  "uid": "playbook-button-fc0b9",
+  "version": 4,
+  "id": "aJVxrLopWbeML3hXH",
+  "disabled": false
+}

@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a1ab7e20f05fefe59b2",
+  "type": "Playbook",
+  "name": "AI Case Analysis",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.854Z",
+  "modifiedDate": "2026-09-22T09:27:56.854Z",
+  "uid": "button-1-0726d",
+  "version": 4,
+  "id": "aKmkQnlvJ0rN7JMmI",
+  "disabled": false
+}

@@ -1,0 +1,26 @@
+{
+  "createdDate": "2026-09-22T09:27:58.263Z",
+  "modifiedDate": "2026-09-22T09:27:58.263Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59be",
+  "intentId": "aXN9ogmGk1EfoaIw9",
+  "intentName": "Error to Enrichment v1.0.2",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Create a TEDS-compatible enrichment containing error data for when an enrichment fails.",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--5--18477",
+  "version": 70,
+  "id": "aT0MBgT0PDhSCQjJu",
+  "name": "Normalize - Create TEDS Error",
+  "disabled": false
+}

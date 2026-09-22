@@ -1,0 +1,8 @@
+{
+  "manifestVersion": "1.0.2",
+  "uid": "abuseipdb",
+  "version": 1,
+  "id": "abuseipdb",
+  "name": "AbuseIPDB",
+  "disabled": false
+}

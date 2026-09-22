@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe5985",
+  "type": "Playbook",
+  "name": "Enrich Observable",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGfR2rPsFvQq4lBU_",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.905Z",
+  "modifiedDate": "2026-09-22T09:27:56.905Z",
+  "uid": "button-1-85c6e",
+  "version": 3,
+  "id": "aJC0CkK2pkqreFWz1",
+  "disabled": false
+}

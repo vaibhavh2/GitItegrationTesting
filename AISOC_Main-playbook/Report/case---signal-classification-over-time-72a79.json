@@ -1,0 +1,135 @@
+{
+  "groupBys": [
+    {
+      "fieldId": "ayizq",
+      "groupByType": "GroupBy"
+    },
+    {
+      "fieldId": "ax80c",
+      "groupByType": "GroupBy"
+    }
+  ],
+  "aggregates": [
+    {
+      "fieldId": "ax80c",
+      "aggregateType": "Count"
+    }
+  ],
+  "applicationIds": [
+    "aGLUPEw5Z3dKNx0wk"
+  ],
+  "columns": [
+    "6933610b634a141219c0926e",
+    "a6tit",
+    "a2nqk",
+    "a1sl2",
+    "attx7",
+    "ayizq",
+    "acy3v",
+    "aooms",
+    "angc3",
+    "av3pc",
+    "ayh75",
+    "afnpq",
+    "agepy",
+    "a0vh1",
+    "ap5rt",
+    "anvjb",
+    "azr64"
+  ],
+  "sorts": {
+    "6933610b634a141219c0926e": "Descending"
+  },
+  "filters": [],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": false,
+  "createdDate": "2026-09-22T09:27:57.034Z",
+  "modifiedDate": "2026-09-22T09:27:57.034Z",
+  "chartOptions": {
+    "colorScheme": "swimlane",
+    "showLegend": true,
+    "legendPosition": 0,
+    "chartType": "Line",
+    "showLabels": true,
+    "showXAxis": true,
+    "showXAxisLabel": false,
+    "xAxisLabelText": "",
+    "showYAxis": true,
+    "showYAxisLabel": false,
+    "yAxisLabelText": "",
+    "gradient": true,
+    "zoom": false,
+    "autoScale": false,
+    "explodeSlices": false,
+    "transparentBackground": false,
+    "sort": {
+      "directionD0": "LabelAscending",
+      "entriesD0": [
+        {
+          "name": "No Value"
+        },
+        {
+          "name": "True Positive"
+        }
+      ],
+      "directionD1": "LabelAscending",
+      "entriesD1": [
+        {
+          "name": "2026-03-19T00:00:00Z"
+        },
+        {
+          "name": "2026-03-20T00:00:00Z"
+        },
+        {
+          "name": "2026-03-22T00:00:00Z"
+        },
+        {
+          "name": "2026-03-23T00:00:00Z"
+        }
+      ]
+    },
+    "colorMap": [
+      {
+        "name": "no value",
+        "value": "#adfffb",
+        "isInternal": false
+      },
+      {
+        "name": "true positive",
+        "value": "#72819f",
+        "isInternal": false
+      }
+    ],
+    "showOtherGroup": true,
+    "curveType": "Linear",
+    "showAxis": true,
+    "min": 0,
+    "max": 100,
+    "minRadius": 5,
+    "maxRadius": 50,
+    "units": "Total",
+    "bigSegments": 10,
+    "smallSegments": 5,
+    "angleSpan": 240,
+    "startAngle": -120,
+    "value": 0,
+    "code": "",
+    "wrapTicks": true,
+    "maxXAxisTickLength": 16,
+    "maxYAxisTickLength": 16,
+    "percentGaugeOptions": "{\u0022showLabel\u0022:false,\u0022label\u0022:\u0022\u0022,\u0022target\u0022:80,\u0022targetLabel\u0022:\u0022Goal\u0022,\u0022itemName\u0022:\u0022\u0022,\u0022showHeader\u0022:false,\u0022headerText\u0022:\u0022Header\u0022,\u0022headerLabels\u0022:[{\u0022label\u0022:\u0022Low\u0022,\u0022threshold\u0022:0,\u0022color\u0022:\u0022#ff0000\u0022},{\u0022label\u0022:\u0022Medium\u0022,\u0022threshold\u0022:33,\u0022color\u0022:\u0022#ffc300\u0022},{\u0022label\u0022:\u0022High\u0022,\u0022threshold\u0022:66,\u0022color\u0022:\u0022#00ff00\u0022}],\u0022showCard\u0022:false,\u0022cardLabel\u0022:\u0022\u0022}"
+  },
+  "statsDrillin": false,
+  "filterType": "And",
+  "colorCoding": [],
+  "addToHomePage": false,
+  "autoRefreshMilliseconds": 0,
+  "overfetch": false,
+  "uid": "case---signal-classification-over-time-72a79",
+  "version": 247,
+  "id": "aHXpa8LcwK9W1yvxS",
+  "name": "CASE - Classification Over Time",
+  "disabled": false
+}

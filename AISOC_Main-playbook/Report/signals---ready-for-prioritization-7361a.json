@@ -1,0 +1,82 @@
+{
+  "groupBys": [],
+  "aggregates": [],
+  "applicationIds": [
+    "aGLUPEw5Z3dKNx0wk"
+  ],
+  "columns": [
+    "6933610b634a141219c0926e",
+    "a1sl2",
+    "a2nqk",
+    "aooms",
+    "agj4i",
+    "av3pc",
+    "a6tit"
+  ],
+  "sorts": {
+    "6933610b634a141219c0926e": "Descending"
+  },
+  "filters": [
+    {
+      "fieldId": "agj4i",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "drillin": false
+    },
+    {
+      "filterType": 0,
+      "filterOperationType": "Or",
+      "filters": [
+        {
+          "fieldId": "a6tit",
+          "filterType": "Equals",
+          "filterOperationType": 0,
+          "value": "68ff9ec17bae115876a25edd",
+          "drillin": false
+        },
+        {
+          "fieldId": "a6tit",
+          "filterType": "Equals",
+          "filterOperationType": 0,
+          "value": "69121812c254ef82c686f356",
+          "drillin": false
+        }
+      ],
+      "drillin": false
+    },
+    {
+      "fieldId": "a1sl2",
+      "filterType": "DoesNotEqual",
+      "filterOperationType": 0,
+      "drillin": false
+    },
+    {
+      "fieldId": "a2nqk",
+      "filterType": "DoesNotEqual",
+      "filterOperationType": 0,
+      "drillin": false
+    },
+    {
+      "fieldId": "aooms",
+      "filterType": "DoesNotEqual",
+      "filterOperationType": 0,
+      "drillin": false
+    }
+  ],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": false,
+  "createdDate": "2026-09-22T09:27:56.939Z",
+  "modifiedDate": "2026-09-22T09:27:56.939Z",
+  "statsDrillin": false,
+  "filterType": "And",
+  "colorCoding": [],
+  "addToHomePage": false,
+  "overfetch": false,
+  "uid": "signals---ready-for-prioritization-7361a",
+  "version": 330,
+  "id": "aLLBJTCuHZmYNiwfV",
+  "name": "CASE - Ready For Prioritization",
+  "disabled": false
+}

@@ -1,0 +1,35 @@
+{
+  "createdDate": "2026-09-22T09:27:59.691Z",
+  "modifiedDate": "2026-09-22T09:27:59.691Z",
+  "playbookId": "6ab24a19b7e20f05fefe5998",
+  "intentId": "aVnQadKPFlE9KWT7t",
+  "intentName": "Alert Triage Ingestion to Array of Alert v1.1.0",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Ingests and enriches security alerts, deduplicates them, parses observables, enriches with threat intelligence, and creates CASE records\n",
+  "referencedComponents": [
+    "aWUmHOqW3cVzrMZTh",
+    "aWApdnLkMliU9YOvR",
+    "acBotOdQazx2MzaYG",
+    "abEyxZA6VQXXHY4sV",
+    "acpiAcbyzhY2lbvfm",
+    "aX7fZcp3SK6_EzubC",
+    "ad8epE5kgYLYSQ5E1"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--2--2ef36",
+  "version": 42,
+  "id": "adSbSqaWNP939EFnH",
+  "name": "AI SOC - Template - Bulk Alert Ingestion",
+  "disabled": false
+}

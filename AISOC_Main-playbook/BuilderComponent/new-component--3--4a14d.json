@@ -1,0 +1,26 @@
+{
+  "createdDate": "2026-09-22T09:28:00.078Z",
+  "modifiedDate": "2026-09-22T09:28:00.078Z",
+  "playbookId": "6ab24a19b7e20f05fefe5996",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Processes observables by extracting SHA256 hash from file metadata when observable type is \u0027file\u0027, otherwise returns the original observable value.\n",
+  "referencedComponents": [
+    "aUv23LOeaLVTNIjgQ"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--3--4a14d",
+  "version": 15,
+  "id": "aVDzhxtQHCIz46uEg",
+  "name": "TI - Map Observable Metadata to Value",
+  "disabled": false
+}

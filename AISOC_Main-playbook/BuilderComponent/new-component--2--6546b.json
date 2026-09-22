@@ -1,0 +1,27 @@
+{
+  "createdDate": "2026-09-22T09:28:03.334Z",
+  "modifiedDate": "2026-09-22T09:28:03.334Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59a3",
+  "intentId": "aWQJsrIxeSq9j8oFO",
+  "intentName": "Text to Array of Observables v1.0.2",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Extracts observables from text using IOC parser, applies configurable ignore lists, and filters results by specified observable types.\n",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": true,
+  "heroAiExecutionConfirmationRequired": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--2--6546b",
+  "version": 20,
+  "id": "aWUmHOqW3cVzrMZTh",
+  "name": "AI SOC - Parse Observables",
+  "disabled": false
+}

@@ -1,0 +1,26 @@
+{
+  "createdDate": "2026-09-22T09:28:00.272Z",
+  "modifiedDate": "2026-09-22T09:28:00.272Z",
+  "playbookId": "6ab24a1ab7e20f05fefe59bf",
+  "intentId": "aX3DA4HV2ARA6m8Mu",
+  "intentName": "Simple Observable to Enrichment v1.0.3",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "This component enriches an observable by taking a single email address, submitting it to IPQualityScore for enrichment, and returning the response as a normalised TEDS Enrichment. Input: This component only accepts email observables. Observable type MUST be \u0060email\u0060, and observable value MUST be the \u0060email address\u0060.",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "ipqualityscore-enrich-observable-vic--copy-1--dc654",
+  "version": 120,
+  "id": "aUH8m7Q6BduSzgOYv",
+  "name": "Enrich - IPQualityScore Enrich Observable (VIC)",
+  "disabled": false
+}

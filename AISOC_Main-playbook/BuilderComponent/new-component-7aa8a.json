@@ -1,0 +1,27 @@
+{
+  "createdDate": "2026-09-22T09:27:57.168Z",
+  "modifiedDate": "2026-09-22T09:27:57.168Z",
+  "playbookId": "6ab24a1ab7e20f05fefe5999",
+  "intentId": "aW6NEEpAxc1f1Kdh8",
+  "intentName": "Alert to Alert v1.1.0",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Standardizes mappable outputs by using an interface.",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-7aa8a",
+  "version": 34,
+  "id": "ad8epE5kgYLYSQ5E1",
+  "name": "AI SOC -Map Object to TEDS Alert",
+  "disabled": false
+}

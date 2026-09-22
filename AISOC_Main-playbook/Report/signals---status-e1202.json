@@ -1,0 +1,136 @@
+{
+  "groupBys": [
+    {
+      "fieldId": "a6tit",
+      "groupByType": "GroupBy"
+    }
+  ],
+  "aggregates": [
+    {
+      "fieldId": "6933610b634a141219c0926e",
+      "aggregateType": "Count"
+    }
+  ],
+  "applicationIds": [
+    "aGLUPEw5Z3dKNx0wk"
+  ],
+  "columns": [
+    "a6tit",
+    "a0vh1",
+    "ap5rt",
+    "anvjb"
+  ],
+  "sorts": {
+    "6933610b634a141219c0926e": "Descending"
+  },
+  "filters": [
+    {
+      "fieldId": "a6tit",
+      "filterType": "DoesNotEqual",
+      "filterOperationType": 0,
+      "value": "68ff9ed0cf39adc60fa79ab7",
+      "drillin": false
+    }
+  ],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": false,
+  "createdDate": "2026-09-22T09:27:57.071Z",
+  "modifiedDate": "2026-09-22T09:27:57.071Z",
+  "chartOptions": {
+    "colorScheme": "sunrise",
+    "showLegend": true,
+    "legendPosition": 0,
+    "chartType": "VerticalBar",
+    "showLabels": true,
+    "showXAxis": true,
+    "showXAxisLabel": false,
+    "xAxisLabelText": "",
+    "showYAxis": true,
+    "showYAxisLabel": false,
+    "yAxisLabelText": "",
+    "gradient": true,
+    "zoom": false,
+    "autoScale": false,
+    "explodeSlices": false,
+    "transparentBackground": false,
+    "sort": {
+      "directionD0": "Custom",
+      "entriesD0": [
+        {
+          "name": "New"
+        },
+        {
+          "name": "Processing"
+        },
+        {
+          "name": "In Progress"
+        },
+        {
+          "name": "Blocked"
+        },
+        {
+          "name": "Escalated"
+        }
+      ],
+      "directionD1": "LabelAscending",
+      "value": "New"
+    },
+    "colorMap": [
+      {
+        "name": "escalated",
+        "value": "#FFE1AD",
+        "isInternal": false
+      },
+      {
+        "name": "new",
+        "value": "#FFE1AD",
+        "isInternal": false
+      },
+      {
+        "name": "processing",
+        "value": "#EE9BB0",
+        "isInternal": false
+      },
+      {
+        "name": "in progress",
+        "value": "#006AE0",
+        "isInternal": false
+      },
+      {
+        "name": "blocked",
+        "value": "#E08D00",
+        "isInternal": false
+      }
+    ],
+    "showOtherGroup": true,
+    "curveType": "Linear",
+    "showAxis": true,
+    "min": 0,
+    "max": 100,
+    "minRadius": 5,
+    "maxRadius": 50,
+    "units": "Total",
+    "bigSegments": 10,
+    "smallSegments": 5,
+    "angleSpan": 240,
+    "startAngle": -120,
+    "value": 0,
+    "code": "import { SwimlaneElement, css, html, svg } from \u0027@swimlane/swimlane-element@1\u0027;\nimport { reportFrameTemplate } from \u0027@swimlane/swimlane-element@1/templates.js\u0027;\n\nexport default class extends SwimlaneElement {\n  static get styles() {\n    return [super.styles, css\u0060\n      .frame::after {\n        content: \u0022Report Output\u0022;\n      }\n    \u0060];\n  }\n\n  render() {\n    return reportFrameTemplate(html\u0060\n      \u003Cpre\u003E${JSON.stringify(this.report, undefined, 2)}\u003C/pre\u003E\n    \u0060);\n  }\n}",
+    "wrapTicks": true,
+    "maxXAxisTickLength": 16,
+    "maxYAxisTickLength": 16,
+    "percentGaugeOptions": "{\u0022showLabel\u0022:false,\u0022label\u0022:\u0022\u0022,\u0022target\u0022:80,\u0022targetLabel\u0022:\u0022Goal\u0022,\u0022itemName\u0022:\u0022\u0022,\u0022showHeader\u0022:false,\u0022headerText\u0022:\u0022Header\u0022,\u0022headerLabels\u0022:[{\u0022label\u0022:\u0022Low\u0022,\u0022threshold\u0022:0,\u0022color\u0022:\u0022#ff0000\u0022},{\u0022label\u0022:\u0022Medium\u0022,\u0022threshold\u0022:33,\u0022color\u0022:\u0022#ffc300\u0022},{\u0022label\u0022:\u0022High\u0022,\u0022threshold\u0022:66,\u0022color\u0022:\u0022#00ff00\u0022}],\u0022showCard\u0022:false,\u0022cardLabel\u0022:\u0022\u0022}"
+  },
+  "statsDrillin": false,
+  "filterType": "And",
+  "colorCoding": [],
+  "addToHomePage": false,
+  "overfetch": false,
+  "uid": "signals---status-e1202",
+  "version": 335,
+  "id": "aBCtgvaA0F7S7jZlN",
+  "name": "CASE - Status",
+  "disabled": false
+}

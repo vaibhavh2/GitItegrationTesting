@@ -1,0 +1,26 @@
+{
+  "createdDate": "2026-09-22T09:28:02.463Z",
+  "modifiedDate": "2026-09-22T09:28:02.463Z",
+  "playbookId": "6ab24a19b7e20f05fefe597d",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Creates a timeline entry from input data and appends it to a CASE record\u0027s timeline field\n",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-0285f",
+  "version": 28,
+  "id": "aXlYrqnbr1i_dcEii",
+  "name": "AI SOC - Update CASE Management Timeline",
+  "disabled": false
+}

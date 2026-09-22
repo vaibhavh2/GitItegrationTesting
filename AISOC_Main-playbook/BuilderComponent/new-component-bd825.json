@@ -1,0 +1,26 @@
+{
+  "createdDate": "2026-09-22T09:28:00.318Z",
+  "modifiedDate": "2026-09-22T09:28:00.318Z",
+  "playbookId": "6ab24a19b7e20f05fefe596f",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Fetches the Application Id from the Acronym.\nEg: CASE --\u003E aHoxK3zx6XGJGqWHH",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": true,
+  "aiAgent": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-bd825",
+  "version": 5,
+  "id": "aaw1IxgKoZk1ajvJF",
+  "name": "AI SOC - Get Application Id from Acronym",
+  "disabled": false
+}

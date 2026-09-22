@@ -1,0 +1,8 @@
+{
+  "manifestVersion": "1.4.2",
+  "uid": "swimlane_render_html",
+  "version": 1,
+  "id": "swimlane_render_html",
+  "name": "Render HTML",
+  "disabled": false
+}

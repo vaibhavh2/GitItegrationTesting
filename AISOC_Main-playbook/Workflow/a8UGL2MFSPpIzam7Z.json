@@ -1,0 +1,98 @@
+{
+  "applicationId": "aGfR2rPsFvQq4lBU_",
+  "stages": [
+    {
+      "id": "698ceac381ecb77f487916da",
+      "name": "Default Action(s)",
+      "disabled": false,
+      "parentId": "a8gJX1fzRPiQZEEHL",
+      "conditionType": "DefaultActions",
+      "evalType": "And",
+      "conditions": [],
+      "actions": [],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "698ceac82fe12b7612622620",
+      "name": "Read Only Set",
+      "disabled": false,
+      "parentId": "a8gJX1fzRPiQZEEHL",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "am527",
+          "conditionType": "Equals",
+          "fieldId": "as6zy",
+          "referenceFieldConjunction": 0,
+          "value": [
+            "698ceab1f5c7086c75fdf9fd"
+          ],
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "aflvc": "Read",
+            "awd36": "Read",
+            "abu52": "Read",
+            "a2354": "Read",
+            "awkb9": "Read",
+            "ak1dn": "Read",
+            "acr5x": "Read",
+            "awbk7": "Read",
+            "amwq7": "Read"
+          },
+          "actionType": "ReadOnly",
+          "parentId": "698ceac82fe12b7612622620",
+          "id": "698ceade1ac7666d7f8c0a98",
+          "name": "Set RO Fields",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    },
+    {
+      "id": "698ceafe207ef68dd8de8efa",
+      "name": "New Record",
+      "disabled": false,
+      "parentId": "a8gJX1fzRPiQZEEHL",
+      "conditionType": "Equals",
+      "evalType": "And",
+      "conditions": [
+        {
+          "id": "aero4",
+          "conditionType": "Equals",
+          "fieldId": "arcsv",
+          "referenceFieldConjunction": 0,
+          "isCaseSensitive": true
+        }
+      ],
+      "actions": [
+        {
+          "fieldStates": {
+            "aflvc": "Write",
+            "awd36": "Write",
+            "abu52": "Write"
+          },
+          "actionType": "ReadOnly",
+          "parentId": "698ceafe207ef68dd8de8efa",
+          "id": "698ceb0ce8f61e079724c271",
+          "name": "Set Writable Fields",
+          "disabled": false
+        }
+      ],
+      "repeats": [],
+      "stages": []
+    }
+  ],
+  "createdDate": "2026-09-22T09:27:56.949Z",
+  "modifiedDate": "2026-09-22T09:27:56.949Z",
+  "uid": "a8UGL2MFSPpIzam7Z",
+  "version": 11614,
+  "id": "a8gJX1fzRPiQZEEHL",
+  "disabled": false
+}

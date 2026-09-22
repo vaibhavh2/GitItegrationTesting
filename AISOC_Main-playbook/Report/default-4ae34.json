@@ -1,0 +1,36 @@
+{
+  "groupBys": [],
+  "aggregates": [],
+  "applicationIds": [
+    "aGfR2rPsFvQq4lBU_"
+  ],
+  "columns": [
+    "6900cfe4ab4575ea9290af93",
+    "arcsv",
+    "a2354",
+    "aflvc",
+    "awd36",
+    "awkb9",
+    "ak1dn",
+    "acr5x"
+  ],
+  "sorts": {
+    "6900cfe4ab4575ea9290af93": "Descending"
+  },
+  "filters": [],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": true,
+  "createdDate": "2026-09-22T09:27:56.926Z",
+  "modifiedDate": "2026-09-22T09:27:56.926Z",
+  "filterType": "And",
+  "colorCoding": [],
+  "addToHomePage": false,
+  "overfetch": false,
+  "uid": "default-4ae34",
+  "version": 84,
+  "id": "aOpbPBaOwyb51empI",
+  "name": "Default",
+  "disabled": false
+}

@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe5980",
+  "type": "Playbook",
+  "name": "Sync to Child Cases",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.92Z",
+  "modifiedDate": "2026-09-22T09:27:56.92Z",
+  "uid": "sync-child-cases-e77d9",
+  "version": 2,
+  "id": "aQ9qOB438XTvx7DHc",
+  "disabled": false
+}

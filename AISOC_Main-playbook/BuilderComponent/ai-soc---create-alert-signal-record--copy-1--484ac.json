@@ -1,0 +1,24 @@
+{
+  "createdDate": "2026-09-22T09:28:00.685Z",
+  "modifiedDate": "2026-09-22T09:28:00.685Z",
+  "playbookId": "6ab24a19b7e20f05fefe5981",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Processes phishing email data and creates/updates a CASE record with email details, observables, and threat intelligence references.\n",
+  "referencedComponents": [],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "ai-soc---create-alert-signal-record--copy-1--484ac",
+  "version": 67,
+  "id": "abssEn8eu88XgAP_0",
+  "name": "AI SOC - Create Phishing Case Record",
+  "disabled": false
+}

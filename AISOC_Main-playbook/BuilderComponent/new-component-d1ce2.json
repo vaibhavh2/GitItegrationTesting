@@ -1,0 +1,31 @@
+{
+  "createdDate": "2026-09-22T09:28:00.587Z",
+  "modifiedDate": "2026-09-22T09:28:00.587Z",
+  "playbookId": "6ab24a19b7e20f05fefe598a",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Evaluate a given CASE record, returning analysis of the threat intelligence, knowledge base articles, and correlated/similar cases referenced by this CASE record, as well as the current CASE record itself.  Save an AI Verdict, confidence score, and analysis to the CASE record.",
+  "referencedComponents": [
+    "aXRcDEIq9AvUwo49S",
+    "aXlYrqnbr1i_dcEii",
+    "aY4VVSHNXtWVKQPGy",
+    "aYOS93m9EkK01EZqD"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": true,
+  "heroAiExecutionConfirmationRequired": false,
+  "aiAgent": true,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component-d1ce2",
+  "version": 183,
+  "id": "aYiOngFvwb7Vj2kOT",
+  "name": "AI SOC - CASE Hero AI Analysis",
+  "disabled": false
+}

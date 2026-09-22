@@ -1,0 +1,70 @@
+{
+  "groupBys": [],
+  "aggregates": [],
+  "applicationIds": [
+    "aGLUPEw5Z3dKNx0wk"
+  ],
+  "columns": [
+    "6933610b634a141219c0926e",
+    "a6tit",
+    "a1sl2",
+    "attx7",
+    "ayizq",
+    "aooms",
+    "angc3",
+    "av3pc",
+    "ayh75",
+    "afnpq",
+    "agepy"
+  ],
+  "sorts": {
+    "6933610b634a141219c0926e": "Descending"
+  },
+  "filters": [
+    {
+      "fieldId": "a6tit",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "68ff9ec17bae115876a25edd",
+      "drillin": false
+    },
+    {
+      "fieldId": "a6tit",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "68ff9ec4e5bea597b99c0eed",
+      "drillin": false
+    },
+    {
+      "fieldId": "a6tit",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "69120debd38c82061078317b",
+      "drillin": false
+    },
+    {
+      "fieldId": "a6tit",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "68ff9eca12154d9b1ad115d0",
+      "drillin": false
+    }
+  ],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": false,
+  "createdDate": "2026-09-22T09:27:56.923Z",
+  "modifiedDate": "2026-09-22T09:27:56.923Z",
+  "statsDrillin": false,
+  "filterType": "Or",
+  "colorCoding": [],
+  "addToHomePage": false,
+  "autoRefreshMilliseconds": 0,
+  "overfetch": false,
+  "uid": "case---active-triage-queue-13d8c",
+  "version": 257,
+  "id": "aFKC3rwD3LX_AHl1g",
+  "name": "CASE - Active Triage Queue",
+  "disabled": false
+}

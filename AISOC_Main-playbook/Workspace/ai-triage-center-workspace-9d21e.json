@@ -1,0 +1,23 @@
+{
+  "createdDate": "2026-09-22T09:27:56.868Z",
+  "modifiedDate": "2026-09-22T09:27:56.868Z",
+  "dashboards": [
+    "a5pnjXH1AjUuIvjF3",
+    "a5Vr4vnFTshOc6Ygo",
+    "a5BuRJITn0ttvIO7Y",
+    "a4sxnhoi5A5ODUDZI",
+    "a4Z095JwOJHtWg302"
+  ],
+  "applications": [
+    "aGfR2rPsFvQq4lBU_",
+    "aGzNhSudxmEKmZM3F",
+    "aHIKL4OPed1qTNWcV",
+    "aGLUPEw5Z3dKNx0wk",
+    "aHcGzgtBLTqLABhAl"
+  ],
+  "uid": "ai-triage-center-workspace-9d21e",
+  "version": 22,
+  "id": "a6mdfMkLGHuPOMDvp",
+  "name": "AI SOC",
+  "disabled": false
+}

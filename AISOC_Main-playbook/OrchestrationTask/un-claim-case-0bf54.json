@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe598e",
+  "type": "Playbook",
+  "name": "Unclaim Case",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.885Z",
+  "modifiedDate": "2026-09-22T09:27:56.885Z",
+  "uid": "un-claim-case-0bf54",
+  "version": 3,
+  "id": "aOa6A7dBfGTPT3NUL",
+  "disabled": false
+}

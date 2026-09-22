@@ -1,0 +1,55 @@
+{
+  "groupBys": [],
+  "aggregates": [],
+  "applicationIds": [
+    "aGLUPEw5Z3dKNx0wk"
+  ],
+  "columns": [
+    "6933610b634a141219c0926e",
+    "a6tit",
+    "a2nqk",
+    "a1sl2",
+    "attx7",
+    "ayizq",
+    "acy3v",
+    "aooms",
+    "angc3",
+    "av3pc",
+    "ayh75",
+    "afnpq",
+    "agepy",
+    "a0vh1",
+    "ap5rt",
+    "anvjb",
+    "azr64"
+  ],
+  "sorts": {
+    "6933610b634a141219c0926e": "Descending"
+  },
+  "filters": [
+    {
+      "fieldId": "a6tit",
+      "filterType": "Equals",
+      "filterOperationType": 0,
+      "value": "69120debd38c82061078317b",
+      "drillin": false
+    }
+  ],
+  "countByApplicationFacet": false,
+  "pageSize": 10,
+  "offset": 0,
+  "defaultSearchReport": false,
+  "createdDate": "2026-09-22T09:27:56.929Z",
+  "modifiedDate": "2026-09-22T09:27:56.929Z",
+  "statsDrillin": false,
+  "filterType": "And",
+  "colorCoding": [],
+  "addToHomePage": false,
+  "autoRefreshMilliseconds": 0,
+  "overfetch": false,
+  "uid": "case---currently-blocked-signals-fa566",
+  "version": 257,
+  "id": "aGuwHvN4XcYVeLapx",
+  "name": "CASE - Currently Blocked Cases",
+  "disabled": false
+}

@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe5977",
+  "type": "Playbook",
+  "name": "Revoke Access Tokens",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.898Z",
+  "modifiedDate": "2026-09-22T09:27:56.898Z",
+  "uid": "revoke-access-tokens-fd788",
+  "version": 2,
+  "id": "aS3WFq_hJfHx6_De8",
+  "disabled": false
+}

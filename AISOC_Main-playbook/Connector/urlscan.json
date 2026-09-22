@@ -1,0 +1,8 @@
+{
+  "manifestVersion": "1.3.0",
+  "uid": "urlscan",
+  "version": 1,
+  "id": "urlscan",
+  "name": "urlscan.io Analysis",
+  "disabled": false
+}

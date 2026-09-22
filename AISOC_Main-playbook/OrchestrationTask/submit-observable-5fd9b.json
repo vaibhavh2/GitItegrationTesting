@@ -1,0 +1,19 @@
+{
+  "playbookId": "6ab24a19b7e20f05fefe5979",
+  "type": "Playbook",
+  "name": "Submit Observable",
+  "description": "",
+  "isComplete": true,
+  "applicationId": "aGLUPEw5Z3dKNx0wk",
+  "inputMapping": [],
+  "isSystem": false,
+  "outputs": [],
+  "triggers": [],
+  "migrated": false,
+  "createdDate": "2026-09-22T09:27:56.87Z",
+  "modifiedDate": "2026-09-22T09:27:56.87Z",
+  "uid": "submit-observable-5fd9b",
+  "version": 2,
+  "id": "aIt3Z7qH7u2LxRMPm",
+  "disabled": false
+}

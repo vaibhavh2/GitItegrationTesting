@@ -1,0 +1,32 @@
+{
+  "createdDate": "2026-09-22T09:28:01.388Z",
+  "modifiedDate": "2026-09-22T09:28:01.388Z",
+  "playbookId": "6ab24a19b7e20f05fefe596e",
+  "isMarketplace": false,
+  "needUpdate": false,
+  "description": "Enriches observables using multiple threat intelligence providers in parallel, \naggregates results, and calculates a normalized risk score with verdict.\n\n\nInputs : a single observable or file.\n\nOutputs : an enriched observable in TEDS format for use with the Threat Intelligence application.  ",
+  "referencedComponents": [
+    "aTKIqHxn64UxuEtt9",
+    "aTeFTuRYnwISb33RP",
+    "aTyC7VwKUn5yHsD_f",
+    "aUH8m7Q6BduSzgOYv",
+    "aUb5PjustUhygUZ7A",
+    "aVXwLZNBz36Tlw3nw"
+  ],
+  "annotations": [],
+  "visibleToHeroAi": false,
+  "heroAiExecutionConfirmationRequired": false,
+  "groupedReferences": {
+    "applications": [],
+    "components": [],
+    "aiAgents": [],
+    "playbooks": [],
+    "builderPlaybooks": [],
+    "applets": []
+  },
+  "uid": "new-component--2--82033",
+  "version": 43,
+  "id": "aVrs_AryfuuzSkEMB",
+  "name": "AI SOC - Enrich Observable",
+  "disabled": false
+}
